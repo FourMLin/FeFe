@@ -19426,6 +19426,7 @@ Testimonial Area
   font-size: 20px;
   line-height: 1.75;
   color: #fff;
+  min-height: 175px;
 }
 
 .testimonial_style--1.bg-dark .content .testimonial-info .clint-info h6 {
