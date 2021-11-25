@@ -21,7 +21,17 @@ button {
         font-family: $body-font;
 
         &.theme-btn {
-            background-color: #5000ae;
+            background-color: #6001D2;
+        }
+
+        &.black-btn {
+            background-color: #222222;
+            color: #fff;
+
+            &:hover{
+                background-color: #6001D2;
+                color: #fff;
+            }
         }
 
         &:hover {

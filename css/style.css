@@ -11210,7 +11210,19 @@ button.bk-btn {
 
 a.bk-btn.theme-btn,
 button.bk-btn.theme-btn {
-  background-color: #5000ae;
+  background-color: #6001D2;
+}
+
+a.bk-btn.black-btn,
+button.bk-btn.black-btn {
+  background-color: #222222;
+  color: #fff;
+}
+
+a.bk-btn.black-btn:hover,
+button.bk-btn.black-btn:hover {
+  background-color: #6001D2;
+  color: #fff;
 }
 
 a.bk-btn:hover,
@@ -12472,7 +12484,7 @@ Creative Agency Section Title
 }
 
 .service.service--1:hover::before {
-  border-color: #5000ae;
+  border-color: #6001D2;
 }
 
 .service.service--1 .icons {
@@ -12527,11 +12539,11 @@ Creative Agency Section Title
 }
 
 .service.service--1 .content a.service-btn:hover {
-  color: #5000ae;
+  color: #6001D2;
 }
 
 .service.service--1 .content a.service-btn:hover i {
-  color: #5000ae;
+  color: #6001D2;
 }
 
 .service.bg-transparent {
@@ -12983,19 +12995,19 @@ Counterup Area
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .brook-counter.counter-with-border:hover {
-    border: 5px solid #5000ae;
+    border: 5px solid #6001D2;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .brook-counter.counter-with-border:hover {
-    border: 5px solid #5000ae;
+    border: 5px solid #6001D2;
   }
 }
 
 @media only screen and (max-width: 767px) {
   .brook-counter.counter-with-border:hover {
-    border: 5px solid #5000ae;
+    border: 5px solid #6001D2;
   }
 }
 
@@ -13331,7 +13343,7 @@ Counterup Area
   -webkit-box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
           box-shadow: 4px 4px 8px rgba(0, 0, 0, 0.3);
   content: attr(aria-label);
-  background-color: #5000ae;
+  background-color: #6001D2;
 }
 
 .team.team_style--1 .image-wrap .social-networks .inner a.hint--bounce::before, .team.team_style--1 .image-wrap .social-networks .inner a.hint--bounce::after {
@@ -13348,7 +13360,7 @@ Counterup Area
 
 .team.team_style--1 .image-wrap .social-networks .inner a.hint--top::before {
   margin-bottom: -13px;
-  border-top-color: #5000ae;
+  border-top-color: #6001D2;
   left: calc(50% - 7px);
 }
 
@@ -13442,7 +13454,7 @@ Counterup Area
 }
 
 .team.team__style--2 .thumb .overlay {
-  background-color: #5000ae;
+  background-color: #6001D2;
   position: absolute;
   top: 0;
   left: 0;
@@ -13588,7 +13600,7 @@ Counterup Area
   visibility: hidden;
   background-blend-mode: multiply;
   background-size: cover;
-  background-color: #5000ae;
+  background-color: #6001D2;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
@@ -14607,7 +14619,7 @@ Contact Form Style 01
   position: absolute;
   left: auto;
   right: 0;
-  background-color: #5000ae;
+  background-color: #6001D2;
   -webkit-transition: width 0.6s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
   transition: width 0.6s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
 }
@@ -14671,8 +14683,8 @@ Contact Form Style 01
           box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
   font-family: "Poppins", sans-serif;
   color: #ffffff;
-  border-color: #5000ae;
-  background-color: #5000ae;
+  border-color: #6001D2;
+  background-color: #6001D2;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   -webkit-transition: all 0.3s cubic-bezier(1, 0.03, 0, 0.99);
   transition: all 0.3s cubic-bezier(1, 0.03, 0, 0.99);
@@ -14703,8 +14715,8 @@ Contact Form Style 01
   height: 55px;
   line-height: 53px;
   color: #ffffff;
-  border-color: #5000ae;
-  background-color: #5000ae;
+  border-color: #6001D2;
+  background-color: #6001D2;
   font-size: 14px;
   font-weight: 600;
   font-family: "Poppins", sans-serif;
@@ -14719,7 +14731,7 @@ Contact Form Style 01
 }
 
 .contact-form input:focus {
-  border-color: #5000ae;
+  border-color: #6001D2;
   background-color: #fff;
 }
 
@@ -14739,8 +14751,8 @@ Contact Form Style 01
 }
 
 .contact-form textarea:focus {
-  color: #5000ae;
-  border-color: #5000ae;
+  color: #6001D2;
+  border-color: #6001D2;
   background-color: #fff;
 }
 
@@ -15500,7 +15512,7 @@ Contact Form Style 01
 }
 
 .slick-arrow-center.slick-arrow-rounded .slick-btn:hover {
-  background-color: #5000ae;
+  background-color: #6001D2;
   color: #fff;
 }
 
@@ -16288,7 +16300,7 @@ Contact Form Style 01
 }
 
 .social-icon.icon-solid-rounded li a:hover {
-  background-color: #5000ae;
+  background-color: #6001D2;
   color: #ffffff !important;
 }
 
@@ -20025,7 +20037,7 @@ Testimonial Area
 }
 
 .testimonial--horizontal--active .swiper-pagination-progressbar .swiper-pagination-progressbar-fill {
-  background: #5000ae;
+  background: #6001D2;
   height: 100%;
   position: absolute;
 }
@@ -20070,7 +20082,7 @@ Testimonial Area
 }
 
 .testimonial--horizontal--active .swiper-pagination-custom .progressbar .filled {
-  background: #5000ae;
+  background: #6001D2;
   height: 100%;
   position: absolute;
 }
@@ -20628,13 +20640,13 @@ audio {
   position: absolute;
   content: "";
   border-radius: 50%;
-  background-color: #5000ae;
-  background-image: linear-gradient(-133deg, #899664 0, #5000ae 100%);
+  background-color: #6001D2;
+  background-image: linear-gradient(-133deg, #899664 0, #6001D2 100%);
 }
 
 .video-btn-2 .icon-gradient::after {
-  background-color: #5000ae;
-  background-image: linear-gradient(-133deg, #899664 0, #5000ae 100%);
+  background-color: #6001D2;
+  background-image: linear-gradient(-133deg, #899664 0, #6001D2 100%);
   width: 90px;
   height: 90px;
   top: 20px;
@@ -21112,7 +21124,7 @@ Breadcaump Area
   padding: 30px 20px 27px;
   max-height: 700px;
   width: 360px;
-  border-bottom: 2px solid #5000ae;
+  border-bottom: 2px solid #6001D2;
   background-color: #fff;
   -webkit-box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
           box-shadow: 0 10px 30px rgba(0, 0, 0, 0.12);
@@ -21240,8 +21252,8 @@ Breadcaump Area
   font-size: 14px;
   font-weight: 600;
   color: #ffffff;
-  border-color: #5000ae;
-  background-color: #5000ae;
+  border-color: #6001D2;
+  background-color: #6001D2;
   font-family: "Poppins", sans-serif;
   height: 55px;
   line-height: 53px;
@@ -22112,11 +22124,10 @@ h6.heading-h6.font-15 {
 }
 
 p.bk_pra {
-  margin-bottom: 0;
   word-wrap: break-word;
   max-width: 100%;
   font-weight: 500;
-  line-height: 1.58;
+  line-height: 2;
   font-size: 14px;
   font-family: "Poppins", sans-serif;
 }
@@ -24030,7 +24041,7 @@ Row And Column
 
 .vc_row-separator.square svg {
   height: 90px;
-  fill: #5000ae;
+  fill: #6001D2;
   width: auto;
 }
 
@@ -24310,7 +24321,7 @@ body.loaded .page-loading {
   opacity: 0;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-  background-color: #5000ae;
+  background-color: #6001D2;
 }
 
 .portfolio.portfolio_style--1 .port-overlay-info .hover-action {
@@ -27016,7 +27027,7 @@ Portfolio Nav Page
   right: 0;
   -webkit-transition: width 0.6s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
   transition: width 0.6s cubic-bezier(0.25, 0.8, 0.25, 1) 0s;
-  background: #5000ae;
+  background: #6001D2;
 }
 
 .blog-grid--modern.blog-standard .post-content {
@@ -27042,7 +27053,7 @@ Portfolio Nav Page
   border-radius: 50%;
   color: #001029;
   text-align: center;
-  background-color: #5000ae;
+  background-color: #6001D2;
   color: #899664;
   display: inline-block;
 }
@@ -27711,7 +27722,7 @@ Portfolio Nav Page
 
 .brook-pagination-wrapper .load-more-button a i {
   margin-left: 15px;
-  color: #5000ae;
+  color: #6001D2;
 }
 
 /*=========================
@@ -28077,7 +28088,7 @@ Blog Main Quote
 }
 
 .bl-sidebar.search .search-box button:hover {
-  background-color: #5000ae;
+  background-color: #6001D2;
 }
 
 .bl-sidebar.search .search-box button span {
@@ -28276,7 +28287,7 @@ Shop Sidebar
 }
 
 .shop-sidebar.search .search-box button:hover {
-  background-color: #5000ae;
+  background-color: #6001D2;
 }
 
 .shop-sidebar.search .search-box button span {
@@ -28440,7 +28451,7 @@ Shop Sidebar
 }
 
 .price--filter a {
-  background: #5000ae none repeat scroll 0 0;
+  background: #6001D2 none repeat scroll 0 0;
   border-radius: 3px;
   color: #fff;
   display: block;
@@ -28453,11 +28464,11 @@ Shop Sidebar
 .ui-widget-content {
   background: #ededed none repeat scroll 0 0;
   border: 0 none;
-  color: #5000ae;
+  color: #6001D2;
 }
 
 .ui-slider-range.ui-widget-header.ui-corner-all {
-  background: #5000ae none repeat scroll 0 0;
+  background: #6001D2 none repeat scroll 0 0;
 }
 
 .ui-slider-horizontal {
@@ -28480,13 +28491,13 @@ Shop Sidebar
 .ui-state-default,
 .ui-widget-content .ui-state-default,
 .ui-widget-header .ui-state-default {
-  background: #5000ae none repeat scroll 0 0;
+  background: #6001D2 none repeat scroll 0 0;
   border: 0 none;
-  color: #5000ae;
+  color: #6001D2;
 }
 
 .ui-slider-range.ui-widget-header.ui-corner-all {
-  background: #5000ae none repeat scroll 0 0;
+  background: #6001D2 none repeat scroll 0 0;
 }
 
 .ui-slider-horizontal {
@@ -28709,8 +28720,8 @@ Shop Sidebar
 
 .single-product-details-side .product-action a {
   color: #ffffff;
-  border-color: #5000ae;
-  background-color: #5000ae;
+  border-color: #6001D2;
+  background-color: #6001D2;
   position: relative;
   display: inline-block;
   margin: 0 10px;
@@ -61698,5 +61709,49 @@ preview Area
   line-height: 1.23;
   margin: 0;
   color: #ffffff;
+}
+
+.cut-paragraph {
+  white-space: pre-line;
+}
+
+@media screen and (max-width: 767px) {
+  .mr_sm--0 {
+    margin-bottom: 0;
+  }
+}
+
+.qrcode-img {
+  max-width: 100px;
+}
+
+.qrcode-img img {
+  width: 100%;
+}
+
+.dp-flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.p-green {
+  color: #28A745;
+}
+
+.p-red {
+  color: #DC3545;
+}
+
+.p-orange {
+  color: #FD7E14;
+}
+
+.p-bluegray {
+  color: #6C757D;
+}
+
+.p-purple {
+  color: #6001D2;
 }
 /*# sourceMappingURL=style.css.map */

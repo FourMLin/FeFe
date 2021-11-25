@@ -47,4 +47,48 @@
   margin: 0;
   color: #ffffff;
 }
+
+.cut-paragraph {
+  white-space: pre-line;
+}
+
+@media screen and (max-width: 767px) {
+  .mr_sm--0 {
+    margin-bottom: 0;
+  }
+}
+
+.qrcode-img {
+  max-width: 100px;
+}
+
+.qrcode-img img {
+  width: 100%;
+}
+
+.dp-flex {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.p-green {
+  color: #28A745;
+}
+
+.p-red {
+  color: #DC3545;
+}
+
+.p-orange {
+  color: #FD7E14;
+}
+
+.p-bluegray {
+  color: #6C757D;
+}
+
+.p-purple {
+  color: #6001D2;
+}
 /*# sourceMappingURL=custom.css.map */

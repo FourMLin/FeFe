@@ -420,11 +420,11 @@ h6{
 
 p{
     &.bk_pra{
-        margin-bottom: 0;
+        // margin-bottom: 0;
         word-wrap: break-word;
         max-width: 100%;
         font-weight: 500;
-        line-height: 1.58;
+        line-height: 2;
         font-size: 14px;
         font-family: $body-font;
         @media #{$sm-layout} {

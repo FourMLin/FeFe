@@ -1,6 +1,6 @@
 $purple:#6001D2;
 
-.page-content{
+.page-content {
     background: url(../img/bg-image-3.jpg) center repeat;
 }
 
@@ -13,32 +13,32 @@ $purple:#6001D2;
     background-color: $purple;
     color: #fff;
 
-    .mainmenu-wrapper .page_nav ul.mainmenu li a{
+    .mainmenu-wrapper .page_nav ul.mainmenu li a {
         color: #fff !important;
     }
 
 }
 
-.bg_image--8{
+.bg_image--8 {
     background-image: url(../img/title-bg-2.jpg);
 
 }
 
-.newheading{
+.newheading {
     display: flex;
     justify-content: center;
 
-    .newheading-img{
+    .newheading-img {
         max-width: 53px;
         margin: auto 0;
         margin-right: 10px;
 
-        img{
+        img {
             width: 100%;
         }
     }
 
-    h2{
+    h2 {
         font-weight: 600;
         font-size: 70px;
         font-family: "Poppins", sans-serif;
@@ -47,4 +47,48 @@ $purple:#6001D2;
         color: #ffffff;
     }
 
+}
+
+.cut-paragraph {
+    white-space: pre-line;
+}
+
+
+@media screen and (max-width: 767px) {
+    .mr_sm--0 {
+        margin-bottom: 0;
+    }
+}
+
+.qrcode-img {
+    max-width: 100px;
+
+    img {
+        width: 100%;
+    }
+}
+
+.dp-flex {
+    display: flex;
+}
+
+//內頁文章顏色
+.p-green {
+    color: #28A745;
+}
+
+.p-red {
+    color: #DC3545;
+}
+
+.p-orange {
+    color: #FD7E14;
+}
+
+.p-bluegray {
+    color: #6C757D;
+}
+
+.p-purple {
+    color: $purple;
 }

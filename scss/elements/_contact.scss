@@ -236,7 +236,7 @@ Contact Form Style 01
             position: absolute;
             left: auto;
             right: 0;
-            background-color: #5000ae;
+            background-color: #6001D2;
             -webkit-transition: width .6s cubic-bezier(.25, .8, .25, 1) 0s;
             transition: width .6s cubic-bezier(.25, .8, .25, 1) 0s;
         }
@@ -298,8 +298,8 @@ Contact Form Style 01
                 box-shadow: 0 10px 20px rgba(0, 0, 0, .07);
                 font-family: $body-font;
                 color: #ffffff;
-                border-color: #5000ae;
-                background-color: #5000ae;
+                border-color: #6001D2;
+                background-color: #6001D2;
                 -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
                 transition: all .3s cubic-bezier(1, 0.03, 0, 0.99);
 
@@ -336,8 +336,8 @@ Contact Form Style 01
             height: 55px;
             line-height: 53px;
             color: #ffffff;
-            border-color: #5000ae;
-            background-color: #5000ae;
+            border-color: #6001D2;
+            background-color: #6001D2;
             font-size: 14px;
             font-weight: 600;
             font-family: $body-font;
@@ -353,7 +353,7 @@ Contact Form Style 01
         }
 
         &:focus {
-            border-color: #5000ae;
+            border-color: #6001D2;
             background-color: #fff;
         }
     }
@@ -372,8 +372,8 @@ Contact Form Style 01
         -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
         transition: all .3s cubic-bezier(.645, .045, .355, 1);
         &:focus {
-            color: #5000ae;
-            border-color: #5000ae;
+            color: #6001D2;
+            border-color: #6001D2;
             background-color: #fff;
         }
     }
