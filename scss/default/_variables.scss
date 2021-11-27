@@ -35,25 +35,27 @@ $white:#fff;
 
 
 //===== Font Family =====//
-$body-font: 'Poppins', sans-serif;
-$heading-font: 'louis_george_caferegular';
-$secondary-font: 'Montserrat', sans-serif;
-$playfair-font: 'Playfair Display', serif;
-$Permanent-font: 'Permanent Marker', cursive;
-$roboto : 'Roboto', sans-serif;
-$CerebriSans:'CerebriSans';
-$comic-sans: 'Comic Sans MS';
-$spectral-font: 'Spectral', serif;
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap");
+
+$body-font: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+$heading-font: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+$secondary-font: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+$playfair-font: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+$Permanent-font: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+$roboto : "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+$CerebriSans:"Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+$comic-sans: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+$spectral-font: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
 
 
-$font-1: 'Poppins', sans-serif;
-$font-2: 'louis_george_caferegular';
-$font-3: 'Montserrat', sans-serif;
-$font-4: 'Playfair Display', serif;
-$font-5: 'Permanent Marker', cursive;
-$font-6: 'Roboto', sans-serif;
-$font-7: 'CerebriSans';
-$font-8: 'Comic Sans MS';
+$font-1: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+$font-2: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+$font-3: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+$font-4: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+$font-5: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+$font-6: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+$font-7: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
+$font-8: "Helvetica", "Arial","LiHei Pro","黑體-繁","微軟正黑體", sans-serif;
 // Template Font List
 $fontList: $font-1, $font-2, $font-3, $font-4, $font-5, $font-6, $font-7, $font-8;
 

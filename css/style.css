@@ -1,3 +1,4 @@
+@charset "UTF-8";
 /*====================
 	Version: 1.0
 ======================*/
@@ -148,6 +149,7 @@
 /*===================================
     Default Styles
 ====================================*/
+@import url("https://fonts.googleapis.com/css?family=Noto+Sans+TC&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Poppins:300,300i,400,400i,500,500i,600,600i,700,700i,800,900|Permanent+Marker|Playfair+Display:400,400i,700,700i,900,900i|Montserrat:300,300i,400,400i,500,500i,600,700,700i,800|Open+Sans:400|Roboto:400,400i,500,500i,700,700i,900|Reenie+Beanie");
 @import url("https://fonts.googleapis.com/css?family=Spectral:600i&display=swap");
 .color-dark {
@@ -553,7 +555,7 @@ body {
   line-height: 24px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #333333;
   font-weight: 400;
 }
@@ -603,7 +605,7 @@ h6,
 .h4,
 .h5,
 .h6 {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   line-height: 1.3;
   color: #222222;
 }
@@ -1178,31 +1180,31 @@ Animation Css
 }
 
 .secondary-font {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .primary-font {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .heading-font {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .playfair-font {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .spectral-font {
-  font-family: "Spectral", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .roboto-font {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .CerebriSans-font {
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #777;
 }
 
@@ -10365,11 +10367,11 @@ Padding Top Bottom
 
 /* Font specialized */
 .body-font {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .heading-font {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 /* Height and width */
@@ -11205,7 +11207,7 @@ button.bk-btn {
   font-size: 14px;
   font-weight: 600;
   letter-spacing: 0em;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 a.bk-btn.theme-btn,
@@ -11249,7 +11251,7 @@ button.brook-btn {
           box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
   font-weight: 600;
   letter-spacing: 0em;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   display: inline-block;
   text-align: center;
   white-space: nowrap;
@@ -11328,7 +11330,7 @@ button.brook-btn.bk-btn-gray {
   color: #222222;
   text-transform: uppercase;
   font-weight: 500;
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   -webkit-box-shadow: none;
           box-shadow: none;
 }
@@ -11561,7 +11563,7 @@ a.moredetails-btn.yellow-color-2:hover {
 }
 
 .view-more-btn.headingfont a span {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .view-more-btn.font-18 a {
@@ -11598,7 +11600,7 @@ a.moredetails-btn.yellow-color-2:hover {
   margin-left: 14px;
   color: #FCB72B;
   font-size: 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .view-more-btn a span.btn-arrow::before {
@@ -11654,7 +11656,7 @@ a.moredetails-btn.yellow-color-2:hover {
   font-size: 18px;
   line-height: 32px;
   color: #fff !important;
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .video-btn-text i {
@@ -11663,7 +11665,7 @@ a.moredetails-btn.yellow-color-2:hover {
 
 .corona-btn {
   font-size: 18px !important;
-  font-family: "Roboto", sans-serif !important;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif !important;
 }
 
 @-webkit-keyframes border-animate-top {
@@ -11933,13 +11935,13 @@ a.moredetails-btn.yellow-color-2:hover {
 ============================*/
 .section-title h3 {
   color: #6001D2;
-  font-size: 40px;
+  font-size: 30px;
   font-weight: 700;
   letter-spacing: 1px;
   text-transform: uppercase;
   line-height: 1.43;
-  font-family: "Poppins", sans-serif;
-  margin-bottom: 39px;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
+  margin-bottom: 30px;
   white-space: pre-line;
 }
 
@@ -11950,8 +11952,8 @@ a.moredetails-btn.yellow-color-2:hover {
 }
 
 .section-title h2 {
-  font-size: 50px;
-  line-height: 1.25;
+  font-size: 40px;
+  line-height: 1.58;
   margin-bottom: 0;
   word-wrap: break-word;
   max-width: 100%;
@@ -11996,7 +11998,7 @@ a.moredetails-btn.yellow-color-2:hover {
   line-height: 1.32;
   font-weight: 700;
   color: #222222;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .section-title.normal-text h2 {
@@ -12007,7 +12009,7 @@ a.moredetails-btn.yellow-color-2:hover {
   font-size: 40px;
   line-height: 1.4;
   font-weight: 400;
-  font-family: "Comic Sans MS" !important;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif !important;
   margin-bottom: 0;
 }
 
@@ -12034,7 +12036,7 @@ a.moredetails-btn.yellow-color-2:hover {
   line-height: 1.22;
   letter-spacing: 3px;
   font-weight: 700;
-  font-family: "CerebriSans" !important;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif !important;
   text-transform: uppercase;
   margin-bottom: 0;
 }
@@ -12059,7 +12061,7 @@ a.moredetails-btn.yellow-color-2:hover {
 
 .brook-section-title-business h5 {
   font-size: 18px;
-  font-family: "Spectral", serif !important;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif !important;
   line-height: 1.29;
   font-weight: 600 !important;
   text-transform: capitalize !important;
@@ -12131,7 +12133,7 @@ a.moredetails-btn.yellow-color-2:hover {
 .brook-section-title-corona p {
   font-size: 18px;
   line-height: 34px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-weight: 400;
   margin-bottom: 0;
 }
@@ -12166,7 +12168,7 @@ a.moredetails-btn.yellow-color-2:hover {
 .group-link a {
   position: relative;
   font-size: 18px;
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #222222;
   position: relative;
   padding: 2px 0;
@@ -12224,7 +12226,7 @@ a.moredetails-btn.yellow-color-2:hover {
   font-size: 16px;
   color: #111;
   text-transform: uppercase;
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .view-btn a::before {
@@ -12359,7 +12361,7 @@ Creative Agency Section Title
   font-weight: 600;
   font-size: 14px;
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   white-space: nowrap;
   line-height: 1.2;
 }
@@ -12501,7 +12503,7 @@ Creative Agency Section Title
   line-height: 1.38;
   margin-bottom: 18px;
   color: #222222;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-weight: 600;
 }
 
@@ -12617,7 +12619,7 @@ Creative Agency Section Title
   font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.23;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .service.service--3 .content h3 a {
@@ -12634,7 +12636,7 @@ Creative Agency Section Title
   letter-spacing: 0em;
   line-height: 1.32;
   font-size: 16px;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #333333;
 }
 
@@ -13057,12 +13059,12 @@ Counterup Area
   line-height: 1.43;
   margin-bottom: 0;
   word-wrap: break-word;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .number-speaks .content h2 {
   font-size: 48px;
-  line-height: 1.25;
+  line-height: 1.58;
   font-weight: 700;
   margin-bottom: 0;
   word-wrap: break-word;
@@ -13087,7 +13089,7 @@ Counterup Area
   font-size: 70px;
   font-weight: 700;
   line-height: .9;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   -webkit-box-flex: 0;
   -ms-flex: 0 0 33.33333%;
   flex: 0 0 33.33333%;
@@ -13108,13 +13110,13 @@ Counterup Area
   line-height: 1.39;
   margin-bottom: 0;
   color: #222222;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-weight: 600;
 }
 
 .number-wrap .content p {
   margin-top: 20px;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   line-height: 1.32;
   font-size: 16px;
   margin-bottom: 0;
@@ -13193,7 +13195,7 @@ Counterup Area
   letter-spacing: 1px;
   text-transform: uppercase;
   line-height: 1.43;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .team-heading .heading-right button {
@@ -13203,7 +13205,7 @@ Counterup Area
   font-weight: 600;
   font-size: 14px;
   color: #222;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .team-heading .heading-right button i {
@@ -13408,14 +13410,14 @@ Counterup Area
   margin-bottom: 4px;
   color: #222222;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .team.team_style--1 .info span {
   letter-spacing: 0em;
   line-height: 1.32;
   font-size: 16px;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #333;
 }
 
@@ -13549,7 +13551,7 @@ Counterup Area
   line-height: 1.388;
   margin-bottom: 6px;
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .team.team__style--2 .thumb .team-info .info span {
@@ -13646,7 +13648,7 @@ Counterup Area
   font-size: 18px;
   line-height: 1.388;
   margin-bottom: 6px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .team.team__style--3 .team-info .info span {
@@ -13716,7 +13718,7 @@ Counterup Area
   line-height: 1.4;
   margin-bottom: 2px;
   color: #222222;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .team.team_style--4 .inner .content-body .position {
@@ -14181,7 +14183,7 @@ Blog Default Style
   line-height: 1.56;
   margin-bottom: 0;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   margin: 0 0 18px;
 }
 
@@ -14221,7 +14223,7 @@ Blog Default Style
   font-size: 18px;
   line-height: 1.38;
   margin-bottom: 27px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .blog.blog-style--2 .blog-content .content h3.the-title a {
@@ -14365,7 +14367,7 @@ Blog Default Style
   line-height: 1.375;
   margin-bottom: 0;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   margin: 0 0 18px;
 }
 
@@ -14378,7 +14380,7 @@ Blog Default Style
   line-height: 1.12;
   margin-bottom: 0;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .blog-style--1 .blog-content .content h6.post-quote-by a {
@@ -14412,7 +14414,7 @@ Blog Default Style
   font-weight: 700;
   font-size: 24px;
   color: #222222;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .address-inner .address p {
@@ -14421,7 +14423,7 @@ Blog Default Style
   margin-bottom: 0;
   font-size: 16px;
   color: #333333;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .address-inner .address p a {
@@ -14432,7 +14434,7 @@ Blog Default Style
   padding: 2px 0;
   overflow: hidden;
   z-index: 1;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   display: inline-block;
   line-height: 16px;
 }
@@ -14507,7 +14509,7 @@ Blog Default Style
   color: #ffffff !important;
   border-color: #9F3939 !important;
   background-color: #9F3939 !important;
-  font-family: "CerebriSans" !important;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif !important;
   font-size: 13px !important;
   font-weight: 500 !important;
   letter-spacing: 1px !important;
@@ -14591,7 +14593,7 @@ Contact Form Style 01
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   -webkit-transition: all 0.3s cubic-bezier(1, 0.03, 0, 0.99);
   transition: all 0.3s cubic-bezier(1, 0.03, 0, 0.99);
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-size: 16px;
   font-weight: 700;
 }
@@ -14605,7 +14607,7 @@ Contact Form Style 01
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   -webkit-transition: all 0.3s cubic-bezier(1, 0.03, 0, 0.99);
   transition: all 0.3s cubic-bezier(1, 0.03, 0, 0.99);
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-size: 16px;
   font-weight: 700;
   padding-left: 0;
@@ -14652,7 +14654,7 @@ Contact Form Style 01
   color: #333333;
   font-weight: 700;
   font-size: 16px;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 @media only screen and (max-width: 767px) {
@@ -14681,7 +14683,7 @@ Contact Form Style 01
   cursor: pointer;
   -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
           box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #ffffff;
   border-color: #6001D2;
   background-color: #6001D2;
@@ -14719,7 +14721,7 @@ Contact Form Style 01
   background-color: #6001D2;
   font-size: 14px;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   border-radius: 6px;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -15083,7 +15085,7 @@ Contact Form Style 01
   font-weight: 600;
   font-size: 14px;
   color: #fff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   white-space: nowrap;
   line-height: 1.2;
 }
@@ -15161,7 +15163,7 @@ Contact Form Style 01
   line-height: 38px;
   font-weight: 300;
   color: #fff;
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   margin-bottom: 30px;
 }
 
@@ -15199,7 +15201,7 @@ Contact Form Style 01
   line-height: 34px;
   color: #fff;
   font-weight: 400;
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   margin-bottom: 30px;
 }
 
@@ -15270,7 +15272,7 @@ Contact Form Style 01
           box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-weight: 600;
   font-size: 14px;
 }
@@ -15298,7 +15300,7 @@ Contact Form Style 01
   text-transform: uppercase;
   line-height: 1.43;
   margin-bottom: 24px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .call-to-action.callto-action--1 .content h3 {
@@ -15306,12 +15308,12 @@ Contact Form Style 01
   line-height: 1.21;
   color: #fff;
   font-weight: 700;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   margin-bottom: 60px;
 }
 
 .call-to-action.callto-action--1 .content h3 span {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-style: italic;
   font-weight: 700;
 }
@@ -15341,7 +15343,7 @@ Contact Form Style 01
 
 .essential-cta-content h3 {
   font-size: 28px;
-  line-height: 1.25;
+  line-height: 1.58;
   font-weight: 400;
   color: #fff;
   margin-bottom: 0;
@@ -16097,7 +16099,7 @@ Contact Form Style 01
 }
 
 .social-icon.social-text.second-font li a {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .social-icon.tooltip-layout.text-dark li a {
@@ -16185,7 +16187,7 @@ Contact Form Style 01
 }
 
 .social-icon.tooltip-layout li a[class*=hint--][aria-label]:after {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-weight: 600;
   line-height: 1.23;
   content: attr(aria-label);
@@ -16459,7 +16461,7 @@ a[class*=hint--]:before {
 }
 
 a[class*=hint--][aria-label]:after {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-weight: 600;
   line-height: 1.23;
   content: attr(aria-label);
@@ -16913,7 +16915,7 @@ a:hover.hint--bottom::after {
   font-size: 20px;
   line-height: 30px;
   color: #fff;
-  font-family: "Spectral", serif !important;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif !important;
   font-style: italic;
   margin-bottom: 70px;
 }
@@ -16988,7 +16990,7 @@ a:hover.hint--bottom::after {
   font-size: 18px;
   line-height: 34px;
   color: #fff;
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   max-width: 610px;
   margin: 0 auto;
   margin-bottom: 40px;
@@ -17291,7 +17293,7 @@ a:hover.hint--bottom::after {
   font-size: 40px;
   line-height: 1.4;
   font-weight: 400;
-  font-family: "Comic Sans MS" !important;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif !important;
   display: block;
   margin-bottom: 45px;
 }
@@ -17419,7 +17421,7 @@ a:hover.hint--bottom::after {
   line-height: 32px;
   color: #fff;
   margin-bottom: 40px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
@@ -17506,7 +17508,7 @@ a:hover.hint--bottom::after {
   font-size: 18px;
   margin-bottom: 14px;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   line-height: 1.23;
 }
 
@@ -17514,7 +17516,7 @@ a:hover.hint--bottom::after {
   line-height: 1.58;
   font-size: 14px;
   font-weight: 500;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #333333;
   margin: 0;
 }
@@ -17660,7 +17662,7 @@ Countdown Area
   bottom: -31px;
   font-size: 14px !important;
   color: #999;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .time_circles > div > span {
@@ -18122,7 +18124,7 @@ Progress Charts
   border-radius: 50%;
   text-align: center;
   z-index: 3;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .bk-gradation .item-grid .content {
@@ -18366,7 +18368,7 @@ Pricing PLans
 .ht-pricing-list-view thead tr th.pricing-header .heading-h4 {
   font-size: 24px;
   color: #222222;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.23;
@@ -18376,7 +18378,7 @@ Pricing PLans
 .ht-pricing-list-view thead tr th.pricing-header .heading-h6 {
   font-size: 14px;
   color: #222222;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.23;
@@ -18810,7 +18812,7 @@ Contagion Area
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   margin-bottom: 0;
 }
 
@@ -18970,7 +18972,7 @@ Contagion Area
   font-size: 16px;
   line-height: 26px;
   font-weight: 400;
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   max-width: 255px;
   margin-bottom: 0;
 }
@@ -19350,7 +19352,7 @@ Testimonial Area
   margin-bottom: 6px;
   color: #222222;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .testimonial_style--1 .content .testimonial-info .clint-info span {
@@ -19358,7 +19360,7 @@ Testimonial Area
   font-weight: 500;
   line-height: 1.58;
   font-size: 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .testimonial_style--1 .content .testimonial-quote {
@@ -19599,7 +19601,7 @@ Testimonial Area
   font-size: 18px;
   line-height: 1.388;
   margin-bottom: 4px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .testimonial_style--2 .content .testimonial-info .clint-info span {
@@ -19607,7 +19609,7 @@ Testimonial Area
   letter-spacing: 0em;
   line-height: 1.58;
   font-size: 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .testimonial_style--2 .content .testimonial-info .testimonial-quote {
@@ -19706,7 +19708,7 @@ Testimonial Area
   font-size: 30px;
   line-height: 1.6;
   font-style: italic;
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   margin-bottom: 40px;
   color: #fff;
 }
@@ -19737,7 +19739,7 @@ Testimonial Area
   font-weight: 700;
   display: inline-block;
   margin-bottom: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .testimonial-nav-content .testimonial-nav .content .testimonial-info .clint-info span {
@@ -19752,7 +19754,7 @@ Testimonial Area
   font-size: 30px;
   line-height: 1.5;
   font-style: normal;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #222222;
 }
 
@@ -19768,7 +19770,7 @@ Testimonial Area
   font-weight: 700;
   display: inline-block;
   margin-bottom: 0;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .testimonial-nav-content.testimonial-content--2 .testimonial-nav .content .testimonial-info .clint-info span {
@@ -19844,7 +19846,7 @@ Testimonial Area
   font-size: 18px;
   line-height: 1.388;
   margin-bottom: 4px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #ffffff;
 }
 
@@ -19853,7 +19855,7 @@ Testimonial Area
   letter-spacing: 0em;
   line-height: 1.58;
   font-size: 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #ffffff;
 }
 
@@ -19913,7 +19915,7 @@ Testimonial Area
   margin-bottom: 6px;
   color: #fff;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .testimonial_style--4 .content .testimonial-info .clint-info span {
@@ -19921,7 +19923,7 @@ Testimonial Area
   font-weight: 500;
   line-height: 1.58;
   font-size: 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .testimonial_style--5 .content {
@@ -20516,7 +20518,7 @@ audio {
   transform: translate(-6px, -9px);
   border-top: 9px solid transparent;
   border-bottom: 9px solid transparent;
-  border-left: 15px solid #fff;
+  border-left: 15px solid #6001D2;
 }
 
 .video-btn a.video-icon.second-icon,
@@ -20689,7 +20691,7 @@ audio {
   transform: translate(-50%, -50%);
   border-top: 9px solid transparent;
   border-bottom: 9px solid transparent;
-  border-left: 15px solid #fff;
+  border-left: 15px solid #6001D2;
   border-top-width: 11px;
   border-bottom-width: 11px;
   border-left-width: 19px;
@@ -20719,10 +20721,6 @@ audio {
   transform: translate(-50%, -50%);
 }
 
-.slider-business .video-btn a .video-icon.secondary-color {
-  background: #FF5EE1 !important;
-}
-
 /* =========================
 Breadcaump Area 
 =============================*/
@@ -20731,7 +20729,7 @@ Breadcaump Area
   line-height: 1.41;
   font-size: 70px;
   padding-bottom: 130px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .breadcaump-area.breadcaump-title-bar .breadcaump-inner .heading.heading-h1 {
@@ -20778,7 +20776,7 @@ Breadcaump Area
   z-index: 1;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .breadcaump-area.breadcaump-title-bar .breadcaump-inner .breadcrumb-insite ul.core-breadcaump li a::after {
@@ -21254,7 +21252,7 @@ Breadcaump Area
   color: #ffffff;
   border-color: #6001D2;
   background-color: #6001D2;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   height: 55px;
   line-height: 53px;
   outline: none;
@@ -21459,7 +21457,7 @@ Start Dropdown Menu
   border: 0 solid transparent;
   border-bottom: 1px solid #444;
   color: #ffffff;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .mega__width--fullscreen .mega__list li a span {
@@ -21623,7 +21621,7 @@ Typography Area
 
 .heading {
   color: #222222;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.23;
@@ -21635,7 +21633,7 @@ Typography Area
 }
 
 .heading.heading-font {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .heading.bk-hover a {
@@ -21643,15 +21641,15 @@ Typography Area
 }
 
 .heading.playfair-font {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .heading.secondary-font {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .heading.roboto-font {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .heading.font-reenie {
@@ -22083,12 +22081,12 @@ h4.heading-h4 {
 }
 
 h5.heading-h5 {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 @media only screen and (max-width: 767px) {
   h5.heading-h5 {
-    font-size: 16px;
+    font-size: 18px;
   }
   h5.heading-h5 br {
     display: none;
@@ -22129,7 +22127,7 @@ p.bk_pra {
   font-weight: 500;
   line-height: 2;
   font-size: 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 @media only screen and (max-width: 767px) {
@@ -22139,7 +22137,7 @@ p.bk_pra {
 }
 
 p.bk_pra.heading-font {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   line-height: 1.32;
   font-size: 16px;
   color: #333333;
@@ -22198,11 +22196,11 @@ p.bk_pra.font-18 {
 }
 
 p.bk_pra.secondary-font {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 p.bk_pra.heading-font2 {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 p.bk_pra.font-blod {
@@ -22324,7 +22322,7 @@ p.bk_pra.line-height-2-22 {
   font-weight: 600;
   line-height: 1.625;
   color: #222222;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-style: normal;
 }
 
@@ -22463,7 +22461,7 @@ List Area
   font-weight: 500;
   letter-spacing: 0em;
   line-height: 1.38;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .bk-list--2 .list-header.with-number--body h6.heading {
@@ -22472,7 +22470,7 @@ List Area
   letter-spacing: 0em;
   line-height: 1.38;
   color: #333333;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 /* =====================
@@ -23065,7 +23063,7 @@ Pricing Box
 
 .single-svg-icon-box.business-icon-box .content p {
   color: #fff;
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
@@ -23252,7 +23250,7 @@ Dividers Area
   font-weight: 500;
   line-height: 1.58;
   font-size: 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .message-box.bg_cat--1 {
@@ -23323,7 +23321,7 @@ Dividers Area
   padding: 0;
   font-weight: 600;
   border: 0 none;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   -webkit-appearance: none;
   display: block;
   background: #f7f7f7;
@@ -23361,7 +23359,7 @@ Dividers Area
   letter-spacing: 0em;
   line-height: 1.58;
   font-size: 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   border: 0 none;
   -webkit-box-shadow: 0 20px 40px rgba(0, 0, 0, 0.07);
           box-shadow: 0 20px 40px rgba(0, 0, 0, 0.07);
@@ -23390,7 +23388,7 @@ Dividers Area
   padding: 0;
   font-weight: 600;
   border: 0 none;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   -webkit-appearance: none;
   display: block;
   position: relative;
@@ -23432,7 +23430,7 @@ Dividers Area
   font-weight: 500;
   line-height: 1.58;
   font-size: 14px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   border: 0 none;
   -webkit-box-shadow: inherit;
           box-shadow: inherit;
@@ -23467,7 +23465,7 @@ Dividers Area
   font-size: 24px;
   line-height: 1.2;
   font-weight: 600;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   padding: 14px 0 14px 26px;
 }
 
@@ -23515,7 +23513,7 @@ Dividers Area
   font-size: 18px;
   font-weight: 400;
   line-height: 30px;
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -23584,7 +23582,7 @@ Dividers Area
   font-size: 18px;
   line-height: 34px;
   font-weight: 400;
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   max-width: 460px;
 }
 
@@ -24346,7 +24344,7 @@ body.loaded .page-loading {
   margin: 0;
   font-weight: 600;
   letter-spacing: 0em;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 @media only screen and (max-width: 767px) {
@@ -25227,6 +25225,7 @@ body.loaded .page-loading {
   background: #fff;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
+  border: 1px solid #eee;
 }
 
 .portfolio.with-caption .thumb {
@@ -25275,7 +25274,7 @@ body.loaded .page-loading {
 }
 
 .portfolio.with-caption .caption-bottom {
-  padding: 27px 30px 41px;
+  padding: 30px;
 }
 
 @media only screen and (max-width: 767px) {
@@ -25378,7 +25377,7 @@ body.loaded .page-loading {
   -ms-flex-positive: 1;
   flex-grow: 1;
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .portfolio-cation .port-overlay-info .hover-action .post-overlay-title a {
@@ -25443,7 +25442,7 @@ body.loaded .page-loading {
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   font-weight: 600;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .messonry-button button span.filter-counter::before {
@@ -26365,7 +26364,7 @@ Has Center
   color: rgba(0, 0, 0, 0.3);
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-weight: 700;
   display: inline-block;
 }
@@ -28045,7 +28044,7 @@ Blog Main Quote
   margin-bottom: 20px;
   padding-bottom: 11px;
   border-bottom: 1px solid #eee;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-weight: 600;
   line-height: 1.23;
   color: #222222;
@@ -28245,7 +28244,7 @@ Shop Sidebar
   margin-bottom: 20px;
   padding-bottom: 11px;
   border-bottom: 1px solid #eee;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-weight: 600;
   line-height: 1.23;
   color: #222222;
@@ -30418,7 +30417,7 @@ Main Components
   font-size: 100px;
   line-height: 1.06;
   margin-bottom: 77px;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 @media only screen and (max-width: 767px) {
@@ -30440,7 +30439,7 @@ Main Components
   line-height: 1.13;
   margin-bottom: 140px;
   text-align: left;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 @media only screen and (max-width: 767px) {
@@ -30459,7 +30458,7 @@ Main Components
   font-size: 18px;
   font-weight: 700;
   color: #222;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .gradient-wrapper .post-info .inner .main-info .main-info-inner a.post-read-more .btn-icon {
@@ -30562,7 +30561,7 @@ Main Components
   left: 40px;
   font-size: 18px;
   color: #222;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 @media only screen and (max-width: 767px) {
@@ -30951,8 +30950,8 @@ Main Components
   z-index: 1;
   font-weight: 600;
   line-height: 1.18;
-  font-size: 16px;
-  font-family: "Poppins", sans-serif;
+  font-size: 18px;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #6001D2;
   padding-top: 22px;
   padding-bottom: 22px;
@@ -32060,7 +32059,7 @@ header.br_header.header-default.header-fixed {
   margin: 5px 15px;
   padding: 5px 0;
   font-size: 14px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .br_header-sidebar .side-header-inner .header-wrap .header-center .header-social-neworks .inner a span {
@@ -32208,7 +32207,7 @@ header.br_header.header-default.header-fixed {
   font-size: 18px;
   line-height: 1.4;
   margin-bottom: 21px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-weight: 600;
   margin: 0 0 18px;
 }
@@ -32585,11 +32584,11 @@ Freelancer Area
 Header Font Family 
 ==========================*/
 .secondary-font .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .secondary-font .mega__width--fullscreen .mega__list li.mega--title {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 /* ======================
@@ -32832,7 +32831,7 @@ Header Font Family
 .fullscreen-slider-activation .slide-portfolio-single .content h5 {
   font-weight: 600;
   margin-bottom: 30px;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .fullscreen-slider-activation .slide-portfolio-single .content h2 {
@@ -32843,7 +32842,7 @@ Header Font Family
   color: #fff;
   font-size: 48px;
   line-height: 1.21;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 @media only screen and (max-width: 767px) {
@@ -32856,7 +32855,7 @@ Header Font Family
   color: #fff;
   background: transparent;
   border-color: #fff;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .fullscreen-slider-activation .slide-portfolio-single .content .slide-btn a:hover {
@@ -33191,7 +33190,7 @@ Header Font Family
   line-height: 1.18;
   font-size: 18px;
   color: #222222;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
@@ -33341,7 +33340,7 @@ Button Hire
   color: #222;
   font-size: 18px;
   font-weight: 700;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .hire-on-top-button:hover .the-arrow {
@@ -33552,7 +33551,7 @@ Button Hire
 
 .single-portfolio-slide .inner .info h3.heading {
   margin-bottom: 18px;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .single-portfolio-slide .inner .info h3.heading a {
@@ -33566,7 +33565,7 @@ Button Hire
 .single-portfolio-slide .inner .info .category a {
   font-size: 16px;
   color: #999;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .single-portfolio-slide .inner .info .slide-btn a {
@@ -34065,7 +34064,7 @@ Vertical Slider Portfolio
   z-index: 2;
   font-weight: 700;
   line-height: 1.38;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .fullscreen-slider-wrapper .feature-wrapper .fullscreen-inner .post-character.style-1 {
@@ -34115,7 +34114,7 @@ Vertical Slider Portfolio
   font-size: 18px;
   font-weight: 700;
   color: #222;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
@@ -34450,7 +34449,7 @@ Shop Slide Area
 .product .product-info .price span {
   display: inline-block;
   color: #333333;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .product .product-info .price span.new-price {
@@ -34632,7 +34631,7 @@ Shop Slide Area
 }
 
 .product .product-thumbnail .product-action .action-list.tooltip-layout li a[class*=hint--][aria-label]:after {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-weight: 600;
   line-height: 1.23;
   content: attr(aria-label);
@@ -34793,7 +34792,7 @@ Revulion Area
 }
 
 .revolution-slider-area .inner h1.heading {
-  line-height: 1.25;
+  line-height: 1.58;
   font-weight: 700;
   font-size: 120px;
 }
@@ -35118,7 +35117,7 @@ Prresentation Area
 }
 
 .presentation-slider-wrapper .presentation-inner .inner.about-inner .content h2 {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-size: 48px;
   line-height: 1.11;
   word-wrap: break-word;
@@ -35138,7 +35137,7 @@ Prresentation Area
 }
 
 .presentation-slider-wrapper .presentation-inner .inner.about-inner .content p {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-weight: 700;
 }
 
@@ -35262,7 +35261,7 @@ Prresentation Area
   border-bottom-color: rgba(0, 0, 0, 0);
   margin-bottom: 15px;
   padding-top: 20px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .footer-widget .footer-menu ul.ft-menu-list {
@@ -35284,7 +35283,7 @@ Prresentation Area
   font-weight: 500;
   letter-spacing: 0em;
   line-height: 2;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
 }
@@ -35304,7 +35303,7 @@ Prresentation Area
   font-size: 14px;
   font-weight: 500;
   line-height: 2;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #ffffff;
 }
 
@@ -35351,7 +35350,7 @@ Prresentation Area
 }
 
 .footer-widget.text-var--2 .footer-menu ul.ft-menu-list li a {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-size: 14px;
   font-weight: 500;
   letter-spacing: 0em;
@@ -35361,13 +35360,13 @@ Prresentation Area
 .footer-widget.text-var--2 .footer-address p {
   font-size: 14px;
   font-weight: 500;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .footer-widget.text-var--2 .footer-address p a {
   font-size: 14px;
   font-weight: 500;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .footer-widget.news-bulletin .heading {
@@ -35478,7 +35477,7 @@ Prresentation Area
   font-size: 14px;
   font-weight: 500;
   line-height: 2;
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #ffffff;
 }
 
@@ -35487,12 +35486,12 @@ Prresentation Area
 }
 
 .copyright.text-var-2 .copyright-left ul.bk-copyright-menu li a {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-size: 14px;
 }
 
 .copyright.text-var-2 .copyright-right p {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .copyright.copyright--2 .copyright-left p {
@@ -35500,7 +35499,7 @@ Prresentation Area
   font-size: 14px;
   font-weight: 500;
   line-height: 1.86;
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #999;
 }
 
@@ -35691,7 +35690,7 @@ body.template-color-1 .testimonial--horizontal--active .swiper-pagination-custom
 }
 
 body.template-color-1 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #6001D2 !important;
+  background: #fff !important;
 }
 
 body.template-color-1 a.brook-btn.bk-btn-yellow, body.template-color-1 button.brook-btn.bk-btn-yellow {
@@ -36299,7 +36298,7 @@ body.template-color-2 .testimonial--horizontal--active .swiper-pagination-custom
 }
 
 body.template-color-2 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #FE378C !important;
+  background: #fff !important;
 }
 
 body.template-color-2 a.brook-btn.bk-btn-yellow, body.template-color-2 button.brook-btn.bk-btn-yellow {
@@ -36907,7 +36906,7 @@ body.template-color-3 .testimonial--horizontal--active .swiper-pagination-custom
 }
 
 body.template-color-3 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #F0263F !important;
+  background: #fff !important;
 }
 
 body.template-color-3 a.brook-btn.bk-btn-yellow, body.template-color-3 button.brook-btn.bk-btn-yellow {
@@ -37515,7 +37514,7 @@ body.template-color-4 .testimonial--horizontal--active .swiper-pagination-custom
 }
 
 body.template-color-4 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #FCB72B !important;
+  background: #fff !important;
 }
 
 body.template-color-4 a.brook-btn.bk-btn-yellow, body.template-color-4 button.brook-btn.bk-btn-yellow {
@@ -38123,7 +38122,7 @@ body.template-color-5 .testimonial--horizontal--active .swiper-pagination-custom
 }
 
 body.template-color-5 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #F8A440 !important;
+  background: #fff !important;
 }
 
 body.template-color-5 a.brook-btn.bk-btn-yellow, body.template-color-5 button.brook-btn.bk-btn-yellow {
@@ -38731,7 +38730,7 @@ body.template-color-6 .testimonial--horizontal--active .swiper-pagination-custom
 }
 
 body.template-color-6 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #F05874 !important;
+  background: #fff !important;
 }
 
 body.template-color-6 a.brook-btn.bk-btn-yellow, body.template-color-6 button.brook-btn.bk-btn-yellow {
@@ -39339,7 +39338,7 @@ body.template-color-7 .testimonial--horizontal--active .swiper-pagination-custom
 }
 
 body.template-color-7 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #99E5E8 !important;
+  background: #fff !important;
 }
 
 body.template-color-7 a.brook-btn.bk-btn-yellow, body.template-color-7 button.brook-btn.bk-btn-yellow {
@@ -39947,7 +39946,7 @@ body.template-color-8 .testimonial--horizontal--active .swiper-pagination-custom
 }
 
 body.template-color-8 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #82CECF !important;
+  background: #fff !important;
 }
 
 body.template-color-8 a.brook-btn.bk-btn-yellow, body.template-color-8 button.brook-btn.bk-btn-yellow {
@@ -40555,7 +40554,7 @@ body.template-color-9 .testimonial--horizontal--active .swiper-pagination-custom
 }
 
 body.template-color-9 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #F0263F !important;
+  background: #fff !important;
 }
 
 body.template-color-9 a.brook-btn.bk-btn-yellow, body.template-color-9 button.brook-btn.bk-btn-yellow {
@@ -41163,7 +41162,7 @@ body.template-color-10 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-10 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #19d2a8 !important;
+  background: #fff !important;
 }
 
 body.template-color-10 a.brook-btn.bk-btn-yellow, body.template-color-10 button.brook-btn.bk-btn-yellow {
@@ -41771,7 +41770,7 @@ body.template-color-11 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-11 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #0069FF !important;
+  background: #fff !important;
 }
 
 body.template-color-11 a.brook-btn.bk-btn-yellow, body.template-color-11 button.brook-btn.bk-btn-yellow {
@@ -42379,7 +42378,7 @@ body.template-color-12 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-12 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #F1C078 !important;
+  background: #fff !important;
 }
 
 body.template-color-12 a.brook-btn.bk-btn-yellow, body.template-color-12 button.brook-btn.bk-btn-yellow {
@@ -42987,7 +42986,7 @@ body.template-color-13 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-13 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #CAC0B3 !important;
+  background: #fff !important;
 }
 
 body.template-color-13 a.brook-btn.bk-btn-yellow, body.template-color-13 button.brook-btn.bk-btn-yellow {
@@ -43595,7 +43594,7 @@ body.template-color-14 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-14 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #F55D4E !important;
+  background: #fff !important;
 }
 
 body.template-color-14 a.brook-btn.bk-btn-yellow, body.template-color-14 button.brook-btn.bk-btn-yellow {
@@ -44203,7 +44202,7 @@ body.template-color-15 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-15 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #AC61EE !important;
+  background: #fff !important;
 }
 
 body.template-color-15 a.brook-btn.bk-btn-yellow, body.template-color-15 button.brook-btn.bk-btn-yellow {
@@ -44811,7 +44810,7 @@ body.template-color-16 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-16 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #F5A623 !important;
+  background: #fff !important;
 }
 
 body.template-color-16 a.brook-btn.bk-btn-yellow, body.template-color-16 button.brook-btn.bk-btn-yellow {
@@ -45419,7 +45418,7 @@ body.template-color-17 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-17 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #B013FE !important;
+  background: #fff !important;
 }
 
 body.template-color-17 a.brook-btn.bk-btn-yellow, body.template-color-17 button.brook-btn.bk-btn-yellow {
@@ -46027,7 +46026,7 @@ body.template-color-18 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-18 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #899664 !important;
+  background: #fff !important;
 }
 
 body.template-color-18 a.brook-btn.bk-btn-yellow, body.template-color-18 button.brook-btn.bk-btn-yellow {
@@ -46635,7 +46634,7 @@ body.template-color-19 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-19 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #F12C6E !important;
+  background: #fff !important;
 }
 
 body.template-color-19 a.brook-btn.bk-btn-yellow, body.template-color-19 button.brook-btn.bk-btn-yellow {
@@ -47243,7 +47242,7 @@ body.template-color-20 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-20 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #CE8F4F !important;
+  background: #fff !important;
 }
 
 body.template-color-20 a.brook-btn.bk-btn-yellow, body.template-color-20 button.brook-btn.bk-btn-yellow {
@@ -47851,7 +47850,7 @@ body.template-color-21 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-21 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #FB6031 !important;
+  background: #fff !important;
 }
 
 body.template-color-21 a.brook-btn.bk-btn-yellow, body.template-color-21 button.brook-btn.bk-btn-yellow {
@@ -48459,7 +48458,7 @@ body.template-color-22 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-22 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #A810E0 !important;
+  background: #fff !important;
 }
 
 body.template-color-22 a.brook-btn.bk-btn-yellow, body.template-color-22 button.brook-btn.bk-btn-yellow {
@@ -49067,7 +49066,7 @@ body.template-color-23 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-23 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #68AE4A !important;
+  background: #fff !important;
 }
 
 body.template-color-23 a.brook-btn.bk-btn-yellow, body.template-color-23 button.brook-btn.bk-btn-yellow {
@@ -49675,7 +49674,7 @@ body.template-color-24 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-24 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #BC9464 !important;
+  background: #fff !important;
 }
 
 body.template-color-24 a.brook-btn.bk-btn-yellow, body.template-color-24 button.brook-btn.bk-btn-yellow {
@@ -50283,7 +50282,7 @@ body.template-color-25 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-25 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #9F3939 !important;
+  background: #fff !important;
 }
 
 body.template-color-25 a.brook-btn.bk-btn-yellow, body.template-color-25 button.brook-btn.bk-btn-yellow {
@@ -50891,7 +50890,7 @@ body.template-color-26 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-26 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #7BA100 !important;
+  background: #fff !important;
 }
 
 body.template-color-26 a.brook-btn.bk-btn-yellow, body.template-color-26 button.brook-btn.bk-btn-yellow {
@@ -51499,7 +51498,7 @@ body.template-color-27 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-27 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #14359E !important;
+  background: #fff !important;
 }
 
 body.template-color-27 a.brook-btn.bk-btn-yellow, body.template-color-27 button.brook-btn.bk-btn-yellow {
@@ -52107,7 +52106,7 @@ body.template-color-28 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-28 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #CC327B !important;
+  background: #fff !important;
 }
 
 body.template-color-28 a.brook-btn.bk-btn-yellow, body.template-color-28 button.brook-btn.bk-btn-yellow {
@@ -52715,7 +52714,7 @@ body.template-color-29 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-29 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #E23636 !important;
+  background: #fff !important;
 }
 
 body.template-color-29 a.brook-btn.bk-btn-yellow, body.template-color-29 button.brook-btn.bk-btn-yellow {
@@ -53323,7 +53322,7 @@ body.template-color-30 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-30 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #FB6031 !important;
+  background: #fff !important;
 }
 
 body.template-color-30 a.brook-btn.bk-btn-yellow, body.template-color-30 button.brook-btn.bk-btn-yellow {
@@ -53931,7 +53930,7 @@ body.template-color-31 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-31 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #906032 !important;
+  background: #fff !important;
 }
 
 body.template-color-31 a.brook-btn.bk-btn-yellow, body.template-color-31 button.brook-btn.bk-btn-yellow {
@@ -54539,7 +54538,7 @@ body.template-color-32 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-32 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #EC5B4B !important;
+  background: #fff !important;
 }
 
 body.template-color-32 a.brook-btn.bk-btn-yellow, body.template-color-32 button.brook-btn.bk-btn-yellow {
@@ -55147,7 +55146,7 @@ body.template-color-33 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-33 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #C1B538 !important;
+  background: #fff !important;
 }
 
 body.template-color-33 a.brook-btn.bk-btn-yellow, body.template-color-33 button.brook-btn.bk-btn-yellow {
@@ -55755,7 +55754,7 @@ body.template-color-34 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-34 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #126CDC !important;
+  background: #fff !important;
 }
 
 body.template-color-34 a.brook-btn.bk-btn-yellow, body.template-color-34 button.brook-btn.bk-btn-yellow {
@@ -56363,7 +56362,7 @@ body.template-color-35 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-35 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #F50809 !important;
+  background: #fff !important;
 }
 
 body.template-color-35 a.brook-btn.bk-btn-yellow, body.template-color-35 button.brook-btn.bk-btn-yellow {
@@ -56971,7 +56970,7 @@ body.template-color-36 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-36 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #4BE472 !important;
+  background: #fff !important;
 }
 
 body.template-color-36 a.brook-btn.bk-btn-yellow, body.template-color-36 button.brook-btn.bk-btn-yellow {
@@ -57579,7 +57578,7 @@ body.template-color-37 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-37 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #DA9D55 !important;
+  background: #fff !important;
 }
 
 body.template-color-37 a.brook-btn.bk-btn-yellow, body.template-color-37 button.brook-btn.bk-btn-yellow {
@@ -58187,7 +58186,7 @@ body.template-color-38 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-38 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #3264F5 !important;
+  background: #fff !important;
 }
 
 body.template-color-38 a.brook-btn.bk-btn-yellow, body.template-color-38 button.brook-btn.bk-btn-yellow {
@@ -58795,7 +58794,7 @@ body.template-color-39 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-39 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #FFC851 !important;
+  background: #fff !important;
 }
 
 body.template-color-39 a.brook-btn.bk-btn-yellow, body.template-color-39 button.brook-btn.bk-btn-yellow {
@@ -59403,7 +59402,7 @@ body.template-color-40 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-40 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #C4DCFA !important;
+  background: #fff !important;
 }
 
 body.template-color-40 a.brook-btn.bk-btn-yellow, body.template-color-40 button.brook-btn.bk-btn-yellow {
@@ -60011,7 +60010,7 @@ body.template-color-41 .testimonial--horizontal--active .swiper-pagination-custo
 }
 
 body.template-color-41 .slider-business .video-btn a .video-icon.secondary-color {
-  background: #7F48B0 !important;
+  background: #fff !important;
 }
 
 body.template-color-41 a.brook-btn.bk-btn-yellow, body.template-color-41 button.brook-btn.bk-btn-yellow {
@@ -60564,7 +60563,7 @@ body.template-font-1 .h3,
 body.template-font-1 .h4,
 body.template-font-1 .h5,
 body.template-font-1 .h6 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-1 .heading.font-reenie {
@@ -60572,56 +60571,56 @@ body.template-font-1 .heading.font-reenie {
 }
 
 body.template-font-1 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-1 .mega__width--fullscreen .mega__list li a span {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-1 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-1 .footer-widget .footer-menu ul.ft-menu-list li a {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-1 .copyright ul.bk-copyright-menu li a {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-1 .copyright .copyright-right p {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-1 .footer-widget .footer-address p {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-1 .form-style--1 .input-box input,
 body.template-font-1 .form-style--1 .input-box textarea {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-1 .testimonial_style--1 .content p {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-1 .testimonial_style--1 .content .testimonial-info .clint-info span {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-1 .service.service--1 .content p {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-1 .service.service--2 .content h4 {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-1 .service.service--2 .content p {
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-2 .heading,
@@ -60637,7 +60636,7 @@ body.template-font-2 .h3,
 body.template-font-2 .h4,
 body.template-font-2 .h5,
 body.template-font-2 .h6 {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-2 .heading.font-reenie {
@@ -60645,56 +60644,56 @@ body.template-font-2 .heading.font-reenie {
 }
 
 body.template-font-2 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-2 .mega__width--fullscreen .mega__list li a span {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-2 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-2 .footer-widget .footer-menu ul.ft-menu-list li a {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-2 .copyright ul.bk-copyright-menu li a {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-2 .copyright .copyright-right p {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-2 .footer-widget .footer-address p {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-2 .form-style--1 .input-box input,
 body.template-font-2 .form-style--1 .input-box textarea {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-2 .testimonial_style--1 .content p {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-2 .testimonial_style--1 .content .testimonial-info .clint-info span {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-2 .service.service--1 .content p {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-2 .service.service--2 .content h4 {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-2 .service.service--2 .content p {
-  font-family: "louis_george_caferegular";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-3 .heading,
@@ -60710,7 +60709,7 @@ body.template-font-3 .h3,
 body.template-font-3 .h4,
 body.template-font-3 .h5,
 body.template-font-3 .h6 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-3 .heading.font-reenie {
@@ -60718,56 +60717,56 @@ body.template-font-3 .heading.font-reenie {
 }
 
 body.template-font-3 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-3 .mega__width--fullscreen .mega__list li a span {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-3 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-3 .footer-widget .footer-menu ul.ft-menu-list li a {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-3 .copyright ul.bk-copyright-menu li a {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-3 .copyright .copyright-right p {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-3 .footer-widget .footer-address p {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-3 .form-style--1 .input-box input,
 body.template-font-3 .form-style--1 .input-box textarea {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-3 .testimonial_style--1 .content p {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-3 .testimonial_style--1 .content .testimonial-info .clint-info span {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-3 .service.service--1 .content p {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-3 .service.service--2 .content h4 {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-3 .service.service--2 .content p {
-  font-family: "Montserrat", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-4 .heading,
@@ -60783,7 +60782,7 @@ body.template-font-4 .h3,
 body.template-font-4 .h4,
 body.template-font-4 .h5,
 body.template-font-4 .h6 {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-4 .heading.font-reenie {
@@ -60791,56 +60790,56 @@ body.template-font-4 .heading.font-reenie {
 }
 
 body.template-font-4 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-4 .mega__width--fullscreen .mega__list li a span {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-4 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-4 .footer-widget .footer-menu ul.ft-menu-list li a {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-4 .copyright ul.bk-copyright-menu li a {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-4 .copyright .copyright-right p {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-4 .footer-widget .footer-address p {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-4 .form-style--1 .input-box input,
 body.template-font-4 .form-style--1 .input-box textarea {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-4 .testimonial_style--1 .content p {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-4 .testimonial_style--1 .content .testimonial-info .clint-info span {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-4 .service.service--1 .content p {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-4 .service.service--2 .content h4 {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-4 .service.service--2 .content p {
-  font-family: "Playfair Display", serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-5 .heading,
@@ -60856,7 +60855,7 @@ body.template-font-5 .h3,
 body.template-font-5 .h4,
 body.template-font-5 .h5,
 body.template-font-5 .h6 {
-  font-family: "Permanent Marker", cursive;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-5 .heading.font-reenie {
@@ -60864,56 +60863,56 @@ body.template-font-5 .heading.font-reenie {
 }
 
 body.template-font-5 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-  font-family: "Permanent Marker", cursive;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-5 .mega__width--fullscreen .mega__list li a span {
-  font-family: "Permanent Marker", cursive;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-5 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-  font-family: "Permanent Marker", cursive;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-5 .footer-widget .footer-menu ul.ft-menu-list li a {
-  font-family: "Permanent Marker", cursive;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-5 .copyright ul.bk-copyright-menu li a {
-  font-family: "Permanent Marker", cursive;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-5 .copyright .copyright-right p {
-  font-family: "Permanent Marker", cursive;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-5 .footer-widget .footer-address p {
-  font-family: "Permanent Marker", cursive;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-5 .form-style--1 .input-box input,
 body.template-font-5 .form-style--1 .input-box textarea {
-  font-family: "Permanent Marker", cursive;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-5 .testimonial_style--1 .content p {
-  font-family: "Permanent Marker", cursive;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-5 .testimonial_style--1 .content .testimonial-info .clint-info span {
-  font-family: "Permanent Marker", cursive;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-5 .service.service--1 .content p {
-  font-family: "Permanent Marker", cursive;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-5 .service.service--2 .content h4 {
-  font-family: "Permanent Marker", cursive;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-5 .service.service--2 .content p {
-  font-family: "Permanent Marker", cursive;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-6 .heading,
@@ -60929,7 +60928,7 @@ body.template-font-6 .h3,
 body.template-font-6 .h4,
 body.template-font-6 .h5,
 body.template-font-6 .h6 {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-6 .heading.font-reenie {
@@ -60937,56 +60936,56 @@ body.template-font-6 .heading.font-reenie {
 }
 
 body.template-font-6 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-6 .mega__width--fullscreen .mega__list li a span {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-6 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-6 .footer-widget .footer-menu ul.ft-menu-list li a {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-6 .copyright ul.bk-copyright-menu li a {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-6 .copyright .copyright-right p {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-6 .footer-widget .footer-address p {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-6 .form-style--1 .input-box input,
 body.template-font-6 .form-style--1 .input-box textarea {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-6 .testimonial_style--1 .content p {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-6 .testimonial_style--1 .content .testimonial-info .clint-info span {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-6 .service.service--1 .content p {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-6 .service.service--2 .content h4 {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-6 .service.service--2 .content p {
-  font-family: "Roboto", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-7 .heading,
@@ -61002,7 +61001,7 @@ body.template-font-7 .h3,
 body.template-font-7 .h4,
 body.template-font-7 .h5,
 body.template-font-7 .h6 {
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-7 .heading.font-reenie {
@@ -61010,56 +61009,56 @@ body.template-font-7 .heading.font-reenie {
 }
 
 body.template-font-7 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-7 .mega__width--fullscreen .mega__list li a span {
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-7 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-7 .footer-widget .footer-menu ul.ft-menu-list li a {
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-7 .copyright ul.bk-copyright-menu li a {
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-7 .copyright .copyright-right p {
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-7 .footer-widget .footer-address p {
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-7 .form-style--1 .input-box input,
 body.template-font-7 .form-style--1 .input-box textarea {
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-7 .testimonial_style--1 .content p {
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-7 .testimonial_style--1 .content .testimonial-info .clint-info span {
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-7 .service.service--1 .content p {
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-7 .service.service--2 .content h4 {
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-7 .service.service--2 .content p {
-  font-family: "CerebriSans";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-8 .heading,
@@ -61075,7 +61074,7 @@ body.template-font-8 .h3,
 body.template-font-8 .h4,
 body.template-font-8 .h5,
 body.template-font-8 .h6 {
-  font-family: "Comic Sans MS";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-8 .heading.font-reenie {
@@ -61083,56 +61082,56 @@ body.template-font-8 .heading.font-reenie {
 }
 
 body.template-font-8 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 {
-  font-family: "Comic Sans MS";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-8 .mega__width--fullscreen .mega__list li a span {
-  font-family: "Comic Sans MS";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-8 .mainmenu-wrapper .page_nav ul.mainmenu li.lavel-1 > a span {
-  font-family: "Comic Sans MS";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-8 .footer-widget .footer-menu ul.ft-menu-list li a {
-  font-family: "Comic Sans MS";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-8 .copyright ul.bk-copyright-menu li a {
-  font-family: "Comic Sans MS";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-8 .copyright .copyright-right p {
-  font-family: "Comic Sans MS";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-8 .footer-widget .footer-address p {
-  font-family: "Comic Sans MS";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-8 .form-style--1 .input-box input,
 body.template-font-8 .form-style--1 .input-box textarea {
-  font-family: "Comic Sans MS";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-8 .testimonial_style--1 .content p {
-  font-family: "Comic Sans MS";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-8 .testimonial_style--1 .content .testimonial-info .clint-info span {
-  font-family: "Comic Sans MS";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-8 .service.service--1 .content p {
-  font-family: "Comic Sans MS";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-8 .service.service--2 .content h4 {
-  font-family: "Comic Sans MS";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 body.template-font-8 .service.service--2 .content p {
-  font-family: "Comic Sans MS";
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 /* =====================
@@ -61186,7 +61185,7 @@ body.template-font-8 .service.service--2 .content p {
 
 .pv-service-wrapper .single-grid .inner h4 {
   font-size: 20px;
-  font-family: "Poppins", sans-serif;
+  font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   line-height: 1.4;
   margin-bottom: 0;
   word-wrap: break-word;
@@ -61665,6 +61664,15 @@ preview Area
   background: url(../img/bg-image-3.jpg) center repeat;
 }
 
+.fefe-bg--1 {
+  background: url(../img/bg-image-2.jpg) center no-repeat;
+  background-size: cover;
+}
+
+.fefe-bg--2 {
+  background: #6001D2;
+}
+
 .header-purple-fixed {
   position: fixed;
   top: 0;
@@ -61754,4 +61762,3 @@ preview Area
 .p-purple {
   color: #6001D2;
 }
-/*# sourceMappingURL=style.css.map */

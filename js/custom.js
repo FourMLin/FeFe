@@ -18,7 +18,7 @@ var event = new Vue({
             title: '大河與小飛，鳳飛飛 紀念閩南語親子劇',
             date: '2021.10.23',
             category:'親子劇場',
-            link:'',
+            link:'new-event-inner.html',
             images:'img/blog/grid/grid-1.jpg'
         },
         ],
@@ -26,21 +26,7 @@ var event = new Vue({
     }
 });
 
-//音樂作品
-var musics = new Vue({
-    el: '#Musics',
-    data: {
-        musicContent: [{
-            title: '祝你幸福',
-            date: '1972',
-            category:'music-1',
-            images:'img/music/01海山唱片/祝你幸福.jpg',
-            link:'blog-details.html'
-        },
-        ],
 
-    }
-});
 
 //獎項紀錄
 var awards = new Vue({

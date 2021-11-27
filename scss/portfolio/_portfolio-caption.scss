@@ -8,6 +8,7 @@
         background: #fff;
         -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
         transition: all .3s cubic-bezier(.645, .045, .355, 1);
+        border:1px solid #eee;
 
         .thumb {
             position: relative;
@@ -62,7 +63,7 @@
         }
 
         .caption-bottom {
-            padding: 27px 30px 41px;
+            padding: 30px;
             @media #{$sm-layout} {
                 padding: 24px 17px 25px;
             }
