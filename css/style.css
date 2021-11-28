@@ -11940,7 +11940,7 @@ a.moredetails-btn.yellow-color-2:hover {
 }
 
 .section-title h2 {
-  font-size: 40px;
+  font-size: 32px;
   line-height: 1.58;
   margin-bottom: 0;
   word-wrap: break-word;
@@ -11951,13 +11951,13 @@ a.moredetails-btn.yellow-color-2:hover {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .section-title h2 {
-    font-size: 38px;
+    font-size: 32px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .section-title h2 {
-    font-size: 38px;
+    font-size: 28px;
   }
   .section-title h2 br {
     display: none;

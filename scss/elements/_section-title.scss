@@ -20,7 +20,7 @@
     }
 
     h2 {
-        font-size: 40px;
+        font-size: 32px;
         line-height: 1.58;
         margin-bottom: 0;
         word-wrap: break-word;
@@ -30,11 +30,11 @@
 
         
         @media #{$lg-layout} {
-            font-size: 38px;
+            font-size: 32px;
         }
 
         @media #{$md-layout} {
-            font-size: 38px;
+            font-size: 28px;
             br{
                 display: none;
             }
