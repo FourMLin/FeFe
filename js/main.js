@@ -730,8 +730,9 @@
     =========================================*/
 
     $(window).load(function () {
+       
         $('.bk-masonary-wrapper').imagesLoaded(function () {
-
+            
             // filter items on button click
             $('.messonry-button , .mesonary-button-active').on('click', 'button', function () {
                 var filterValue = $(this).attr('data-filter');
@@ -761,7 +762,7 @@
 
     $(window).load(function () {
         $('.bk-blog-masonry').imagesLoaded(function () {
-
+            $('#defaultClick').trigger('click');
             // filter items on button click
             $('.messonry-button').on('click', 'button', function () {
                 var filterValue = $(this).attr('data-filter');

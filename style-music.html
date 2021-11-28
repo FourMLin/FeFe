@@ -11,7 +11,7 @@
     <!-- Favicon -->
     <link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon">
     <link rel="apple-touch-icon" href="img/icon.png">
-    
+
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/revoulation.css">
     <link rel="stylesheet" href="css/plugins.min.css">
@@ -19,7 +19,7 @@
 </head>
 
 <body class="template-color-1 template-font-1">
-    
+
 
     <!-- Start PReloader -->
     <div id="page-preloader" class="page-loading clearfix">
@@ -51,7 +51,7 @@
                                 </div>
                                 <h2>音樂作品</h2>
                             </div>
-                            
+
                             <div class="breadcrumb-insite">
                                 <ul class="core-breadcaump">
                                     <li><a href="index.html">首頁</a></li>
@@ -124,24 +124,33 @@
             <div class="brook-portfolio-area ptb--100 ptb-md--80 ptb-sm--60 bg_color--1 bk-masonary-wrapper">
 
                 <div class="messonry-button text-center mb--20">
-                    <button data-filter="*" class="is-checked"><span class="filter-text">全部</span> <span class="filter-counter">8</span></button>
-                    <button data-filter=".music-1"><span class="filter-text">海山唱片</span> <span class="filter-counter">3</span></button>
-                    <button data-filter=".music-2"><span class="filter-text">歌林唱片</span> <span class="filter-counter">2</span></button>
-                    <button data-filter=".music-3"><span class="filter-text">東尼唱片</span> <span class="filter-counter">4</span></button>
-                    <button data-filter=".music-4"><span class="filter-text">北聯唱片</span> <span class="filter-counter">5</span></button>
-                    <button data-filter=".music-5"><span class="filter-text">藍與白唱片</span> <span class="filter-counter">5</span></button>
-                    <button data-filter=".music-6"><span class="filter-text">真善美唱片</span> <span class="filter-counter">5</span></button>
-                    <button data-filter=".music-7"><span class="filter-text">EMI唱片</span> <span class="filter-counter">5</span></button>
-                    <button data-filter=".music-8"><span class="filter-text">環球唱片</span> <span class="filter-counter">5</span></button>
-                    <button data-filter=".music-9"><span class="filter-text">年代分類</span> <span class="filter-counter">5</span></button>
+                    <button id="defaultClick" data-filter=".music-1" class="is-checked"><span class="filter-text">海山唱片</span>
+                        <span class="filter-counter">46</span></button>
+                    <button data-filter=".music-2"><span class="filter-text">歌林唱片</span> <span
+                            class="filter-counter">29</span></button>
+                    <button data-filter=".music-3"><span class="filter-text">東尼唱片</span> <span
+                            class="filter-counter">6</span></button>
+                    <button data-filter=".music-4"><span class="filter-text">北聯唱片</span> <span
+                            class="filter-counter">2</span></button>
+                    <button data-filter=".music-5"><span class="filter-text">藍與白唱片</span> <span
+                            class="filter-counter">3</span></button>
+                    <button data-filter=".music-6"><span class="filter-text">真善美唱片</span> <span
+                            class="filter-counter">2</span></button>
+                    <button data-filter=".music-7"><span class="filter-text">EMI唱片</span> <span
+                            class="filter-counter">4</span></button>
+                    <button data-filter=".music-8"><span class="filter-text">環球唱片</span> <span
+                            class="filter-counter">2</span></button>
+                    <button data-filter="*"><span class="filter-text">年代分類</span><span
+                            class="filter-counter">94</span></button>
                 </div>
 
 
                 <div class="container">
                     <div id="Musics" class="portfolio-grid-metro4 mesonry-list row">
                         <div class="resizer"></div>
-                         <!-- Start Single Blog -->
-                         <div class="col-lg-4 col-md-4 col-sm-6 col-12 mt--50" v-for="item in musicContent" :class="item.category">
+                        <!-- Start Single Blog -->
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-12 mt--50" v-for="item in musicContent"
+                            :class="item.category">
                             <div class="blog-grid blog-standard grid-simple">
                                 <div class="post-thumb">
                                     <a :href="item.link">
@@ -152,7 +161,7 @@
                                     <div class="post-inner">
                                         <div class="post-meta">
                                             <div class="post-date">發行時間</div>
-                                            <div class="post-category">{{ item.date }} 年</div>
+                                            <div class="post-category">{{ item.date }}</div>
                                         </div>
                                         <h5 class="heading heading-h5">{{ item.title }}</h5>
                                     </div>
@@ -160,12 +169,12 @@
                             </div>
                         </div>
                         <!-- End Single Blog -->
-    
-                        
-    
+
+
+
                     </div>
                 </div>
-                
+
             </div>
             <!-- End Portfolio Area -->
 
