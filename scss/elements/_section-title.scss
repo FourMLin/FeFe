@@ -41,7 +41,8 @@
         }
 
         @media #{$sm-layout} {
-            font-size: 30px;
+            font-size: 24px;
+            white-space: none;
             br{
                 display: none;
             }

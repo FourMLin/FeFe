@@ -11966,7 +11966,8 @@ a.moredetails-btn.yellow-color-2:hover {
 
 @media only screen and (max-width: 767px) {
   .section-title h2 {
-    font-size: 30px;
+    font-size: 24px;
+    white-space: none;
   }
   .section-title h2 br {
     display: none;
@@ -13086,11 +13087,22 @@ Counterup Area
 
 .number-wrap .content {
   padding-left: 20px;
-  text-align: left;
+  text-align: right;
   -webkit-box-flex: 0;
   -ms-flex: 0 0 66.66667%;
   flex: 0 0 66.66667%;
   max-width: 66.66667%;
+}
+
+@media screen and (max-width: 767px) {
+  .number-wrap .content {
+    padding-left: 0px;
+    text-align: left;
+    -ms-flex: 0 0 100%;
+    -webkit-box-flex: 0;
+            flex: 0 0 100%;
+    max-width: 100%;
+  }
 }
 
 .number-wrap .content h6 {
@@ -26978,6 +26990,10 @@ Portfolio Nav Page
 
 .blog-grid.blog-standard.padding-left-none .post-content {
   padding-left: 0;
+}
+
+.blog-grid.blog-standard.grid-simple .post-content .post-inner h5.heading {
+  margin: 20px 0 0;
 }
 
 .blog-grid.blog-standard:hover {
@@ -61619,7 +61635,8 @@ preview Area
     padding: 50px 10px 66px;
   }
   .number-wrap span {
-    font-size: 41px;
+    font-size: 80px;
+    line-height: 1.28;
   }
   .testimonial--horizontal--active {
     padding-right: 30px;

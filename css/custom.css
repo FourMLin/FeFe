@@ -84,7 +84,8 @@
 }
 
 .info-img {
-  max-width: 35px;
+  width: 20px;
+  margin-right: 10px;
 }
 
 .info-img img {
@@ -110,6 +111,12 @@
 @media screen and (max-width: 767px) {
   .sm_show {
     display: block !important;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .sm_center {
+    text-align: center !important;
   }
 }
 
