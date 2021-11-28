@@ -58,12 +58,41 @@ $purple:#6001D2;
 
             h2{
                 color: #000;
+                font-size: 30px;
             }
         }
 
         .breadcrumb-insite,.newheading-img{
             display: none;
         }
+    }
+}
+
+.fefe-figur{
+    max-width: 230px;
+    position: absolute;
+    top: 55%;
+    left: 53%;
+    transform: translate(-50%,-50%);
+
+    @media screen and (max-width: 767px){
+        display: none;
+    }
+
+    img{
+        width: 100%;
+    }
+}
+
+.vedio-part{
+    @media screen and (max-width: 767px){
+        display: none !important;
+    }
+}
+
+.sm_d-none{
+    @media screen and (max-width: 767px){
+        display: none !important;
     }
 }
 
@@ -163,6 +192,23 @@ $purple:#6001D2;
 
 .dp-flex {
     display: flex;
+}
+
+.section-title-top{
+    justify-content: center;
+
+    .head-img{
+        max-width: 43px;
+        margin-right: 10px;
+
+        img{
+            width: 100%;
+        }
+    }
+}
+
+.add-mt{
+    margin-top: 30px;
 }
 
 //內頁文章顏色
