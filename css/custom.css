@@ -97,6 +97,25 @@
   white-space: pre-line;
 }
 
+.lg-img {
+  display: block;
+}
+
+.sm-img {
+  display: none;
+}
+
+@media screen and (max-width: 767px) {
+  .lg-img {
+    display: none;
+    opacity: 0;
+    visibility: hidden;
+  }
+  .sm-img {
+    display: block;
+  }
+}
+
 @media screen and (max-width: 767px) {
   .mr_sm--0 {
     margin-right: 0;
