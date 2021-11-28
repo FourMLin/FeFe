@@ -69,7 +69,11 @@ $purple:#6001D2;
 
 .newheading {
     display: flex;
-    justify-content: left;
+    justify-content: center;
+
+    @media screen and (max-width: 767px){
+        justify-content: left;
+    }
 
     .newheading-img {
         max-width: 53px;
