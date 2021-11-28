@@ -203,16 +203,19 @@ Counterup Area
         font-weight: 700;
         line-height: .9;
         font-family: $heading-font;
-
+        text-align: right;
         -webkit-box-flex: 0;
         -webkit-flex: 0 0 33.33333%;
         -ms-flex: 0 0 33.33333%;
         flex: 0 0 33.33333%;
         max-width: 33.33333%;
+        @media screen and (max-width: 767px){
+            text-align: left;
+        }
     }
     .content{
         padding-left: 20px;
-        text-align: right;
+        text-align: left;
         -webkit-box-flex: 0;
         -webkit-flex: 0 0 66.66667%;
         -ms-flex: 0 0 66.66667%;

@@ -21,7 +21,7 @@
   top: 0;
   left: 0;
   width: 100%;
-  z-index: 9999;
+  z-index: 200;
   background-color: #6001D2;
   color: #fff;
 }
@@ -219,6 +219,19 @@
   display: flex;
 }
 
+.flex-wrap {
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.event-nailimg {
+  -webkit-box-flex: 1;
+      -ms-flex: 1 0 50%;
+          flex: 1 0 50%;
+  max-width: 50%;
+  padding: 5px;
+}
+
 .section-title-top {
   -webkit-box-pack: center;
       -ms-flex-pack: center;
@@ -256,5 +269,22 @@
 
 .p-purple {
   color: #6001D2;
+}
+
+.mfp-img {
+  cursor: pointer;
+}
+
+.mfp-force-scrollbars.mfp-wrap {
+  overflow-y: auto !important;
+  overflow-x: auto !important;
+}
+
+.mfp-force-scrollbars .mfp-img {
+  max-width: none;
+}
+
+.mfp-force-scrollbars .mfp-close {
+  position: fixed;
 }
 /*# sourceMappingURL=custom.css.map */

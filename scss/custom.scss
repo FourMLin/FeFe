@@ -24,7 +24,7 @@ $purple:#6001D2;
     top: 0;
     left: 0;
     width: 100%;
-    z-index: 9999;
+    z-index: 200;
     background-color: $purple;
     color: #fff;
 
@@ -222,6 +222,16 @@ $purple:#6001D2;
     display: flex;
 }
 
+.flex-wrap {
+    flex-wrap: wrap;
+}
+
+.event-nailimg{
+    flex: 1 0 50%;
+    max-width: 50%;
+    padding: 5px;
+}
+
 .section-title-top{
     justify-content: center;
 
@@ -259,3 +269,23 @@ $purple:#6001D2;
 .p-purple {
     color: $purple;
 }
+
+.mfp-img {
+    cursor: pointer; 
+   }
+   .mfp-force-scrollbars {
+     &.mfp-wrap {
+         overflow-y: auto !important;
+         overflow-x: auto !important;
+     }
+     .mfp-img {
+       max-width: none;
+     }
+     .mfp-close {
+      position: fixed;
+     }
+     
+   }
+   
+   
+   

@@ -13079,15 +13079,22 @@ Counterup Area
   font-weight: 700;
   line-height: .9;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
+  text-align: right;
   -webkit-box-flex: 0;
   -ms-flex: 0 0 33.33333%;
   flex: 0 0 33.33333%;
   max-width: 33.33333%;
 }
 
+@media screen and (max-width: 767px) {
+  .number-wrap span {
+    text-align: left;
+  }
+}
+
 .number-wrap .content {
   padding-left: 20px;
-  text-align: right;
+  text-align: left;
   -webkit-box-flex: 0;
   -ms-flex: 0 0 66.66667%;
   flex: 0 0 66.66667%;
@@ -22126,7 +22133,7 @@ p.bk_pra {
   max-width: 100%;
   font-weight: 500;
   line-height: 2;
-  font-size: 14px;
+  font-size: 18px;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
