@@ -26624,9 +26624,7 @@ Portfolio Nav Page
 .blog-grid.blog-standard.padding-left-none .post-content {
   padding-left: 0;
 }
-.blog-grid.blog-standard.grid-simple .post-content .post-inner h5.heading {
-  margin: 20px 0 0;
-}
+
 .blog-grid.blog-standard:hover {
   -webkit-transform: translateY(0);
   -ms-transform: translateY(0);
