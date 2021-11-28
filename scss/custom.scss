@@ -50,11 +50,26 @@ $purple:#6001D2;
 .bg_image--8 {
     background-image: url(../img/title-bg-2.jpg);
 
+    @media screen and (max-width: 767px){
+        background-image: none;
+        background-color: #f5f5f5;
+
+        .newheading{
+
+            h2{
+                color: #000;
+            }
+        }
+
+        .breadcrumb-insite,.newheading-img{
+            display: none;
+        }
+    }
 }
 
 .newheading {
     display: flex;
-    justify-content: center;
+    justify-content: left;
 
     .newheading-img {
         max-width: 53px;
@@ -83,7 +98,34 @@ $purple:#6001D2;
 
 @media screen and (max-width: 767px) {
     .mr_sm--0 {
+        margin-right: 0;
+    }
+
+    .mt_sm--0 {
+        margin-top: 0;
+    }
+
+    .ml_sm--0 {
+        margin-left: 0;
+    }
+
+    .mb_sm--0 {
         margin-bottom: 0;
+    }
+
+    .pr_sm--0 {
+        padding-right: 0;
+    }
+    .pt_sm--0 {
+        padding-top: 0;
+    }
+
+    .pl_sm--0 {
+        padding-left: 0;
+    }
+
+    .pb_sm--0 {
+        padding-bottom: 0;
     }
 }
 

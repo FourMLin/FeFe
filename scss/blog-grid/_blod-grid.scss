@@ -35,12 +35,20 @@
         position: relative;
         height: 100%;
         min-height: 172px;
-        padding: 21px 20px 30px;
+        padding: 20px 20px 20px;
         background: #fff;
         -webkit-box-flex: 1;
         -webkit-flex-grow: 1;
         -ms-flex-positive: 1;
         flex-grow: 1;
+
+        @media #{$md-layout} {
+            min-height: auto;
+        }
+
+        @media #{$sm-layout} {
+            min-height: auto;
+        }
         &::before{
             -webkit-transition: all .5s;
             transition: all .5s;
