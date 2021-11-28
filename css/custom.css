@@ -25,6 +25,22 @@
   color: #fff !important;
 }
 
+.logo-sticky {
+  display: none;
+}
+
+.headroom--not-top .mainmenu-wrapper .page_nav ul.mainmenu li a {
+  color: #fff !important;
+}
+
+.headroom--not-top .logo-top {
+  display: none;
+}
+
+.headroom--not-top .logo-sticky {
+  display: block;
+}
+
 .bg_image--8 {
   background-image: url(../img/title-bg-2.jpg);
 }

@@ -1,5 +1,6 @@
 $purple:#6001D2;
 
+
 .page-content {
     background: url(../img/bg-image-3.jpg) center repeat;
 }
@@ -26,6 +27,24 @@ $purple:#6001D2;
         color: #fff !important;
     }
 
+}
+
+.logo-sticky{
+    display: none;
+}
+
+.headroom--not-top{
+    .mainmenu-wrapper .page_nav ul.mainmenu li a {
+        color: #fff !important;
+    }
+
+    .logo-top{
+        display: none;
+    }
+
+    .logo-sticky{
+        display: block;
+    }
 }
 
 .bg_image--8 {
