@@ -540,7 +540,7 @@ html {
 body {
   overflow: hidden;
   font-size: 16px;
-  line-height: 24px;
+  line-height: 1.58;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
@@ -22101,12 +22101,12 @@ h4.heading-h4 {
 }
 
 h5.heading-h5 {
-  font-size: 18px;
+  font-size: 20px;
 }
 
 @media only screen and (max-width: 767px) {
   h5.heading-h5 {
-    font-size: 16px;
+    font-size: 18px;
   }
   h5.heading-h5 br {
     display: none;
@@ -25303,8 +25303,15 @@ body.loaded .page-loading {
   }
 }
 
+.portfolio.with-caption .caption-bottom .info h5.heading {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
 .portfolio.with-caption .caption-bottom .info h5.heading a {
   color: #222222;
+  margin: auto 0;
 }
 
 .portfolio.with-caption .caption-bottom .info p {

@@ -70,8 +70,10 @@
             .info {
                 h5 {
                     &.heading {
+                        display: flex;
                         a {
                             color: $heading-color;
+                            margin: auto 0;
                         }
                     }
                 }
