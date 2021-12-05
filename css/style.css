@@ -11941,7 +11941,7 @@ a.moredetails-btn.yellow-color-2:hover {
 }
 
 .section-title h2 {
-  font-size: 28px;
+  font-size: 26px;
   line-height: 1.58;
   margin-bottom: 0;
   word-wrap: break-word;
@@ -11952,13 +11952,13 @@ a.moredetails-btn.yellow-color-2:hover {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .section-title h2 {
-    font-size: 28px;
+    font-size: 26px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .section-title h2 {
-    font-size: 24px;
+    font-size: 22px;
   }
   .section-title h2 br {
     display: none;
@@ -11967,7 +11967,7 @@ a.moredetails-btn.yellow-color-2:hover {
 
 @media only screen and (max-width: 767px) {
   .section-title h2 {
-    font-size: 20px;
+    font-size: 18px;
     white-space: none;
   }
   .section-title h2 br {
@@ -13125,7 +13125,7 @@ Counterup Area
 .number-wrap .content p {
   margin-top: 20px;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
-  line-height: 1.32;
+  line-height: 1.58;
   font-size: 18px;
   margin-bottom: 0;
   color: #333;
@@ -61696,3 +61696,4 @@ preview Area
     height: 404px;
   }
 }
+/*# sourceMappingURL=style.css.map */

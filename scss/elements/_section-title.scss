@@ -21,7 +21,7 @@
     }
 
     h2 {
-        font-size: 28px;
+        font-size: 26px;
         line-height: 1.58;
         margin-bottom: 0;
         word-wrap: break-word;
@@ -31,18 +31,18 @@
 
         
         @media #{$lg-layout} {
-            font-size: 28px;
+            font-size: 26px;
         }
 
         @media #{$md-layout} {
-            font-size: 24px;
+            font-size: 22px;
             br{
                 display: none;
             }
         }
 
         @media #{$sm-layout} {
-            font-size: 20px;
+            font-size: 18px;
             white-space: none;
             br{
                 display: none;
