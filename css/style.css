@@ -11923,7 +11923,7 @@ a.moredetails-btn.yellow-color-2:hover {
 ============================*/
 .section-title h3 {
   color: #6001D2;
-  font-size: 30px;
+  font-size: 24px;
   font-weight: 700;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -11935,12 +11935,13 @@ a.moredetails-btn.yellow-color-2:hover {
 
 @media only screen and (max-width: 767px) {
   .section-title h3 {
+    font-size: 18px;
     margin-bottom: 16px;
   }
 }
 
 .section-title h2 {
-  font-size: 32px;
+  font-size: 28px;
   line-height: 1.58;
   margin-bottom: 0;
   word-wrap: break-word;
@@ -11951,13 +11952,13 @@ a.moredetails-btn.yellow-color-2:hover {
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .section-title h2 {
-    font-size: 32px;
+    font-size: 28px;
   }
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   .section-title h2 {
-    font-size: 28px;
+    font-size: 24px;
   }
   .section-title h2 br {
     display: none;
@@ -11966,7 +11967,7 @@ a.moredetails-btn.yellow-color-2:hover {
 
 @media only screen and (max-width: 767px) {
   .section-title h2 {
-    font-size: 24px;
+    font-size: 20px;
     white-space: none;
   }
   .section-title h2 br {
@@ -13197,7 +13198,7 @@ Counterup Area
     Team Area 
 ========================*/
 .team-heading .heading-left h3 {
-  font-size: 18px;
+  font-size: 24px;
   font-weight: 700;
   letter-spacing: 1px;
   text-transform: uppercase;
@@ -13205,14 +13206,26 @@ Counterup Area
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
+@media only screen and (max-width: 767px) {
+  .team-heading .heading-left h3 {
+    font-size: 18px;
+  }
+}
+
 .team-heading .heading-right button {
   padding: 0;
   border: 0;
   background-color: transparent;
   font-weight: 600;
-  font-size: 18px;
+  font-size: 24px;
   color: #222;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
+}
+
+@media only screen and (max-width: 767px) {
+  .team-heading .heading-right button {
+    font-size: 18px;
+  }
 }
 
 .team-heading .heading-right button i {
@@ -22026,18 +22039,18 @@ h2.heading-h2.font-50 {
 }
 
 h3.heading-h3 {
-  font-size: 36px;
+  font-size: 28px;
 }
 
 @media only screen and (min-width: 768px) and (max-width: 991px) {
   h3.heading-h3 {
-    font-size: 32px;
+    font-size: 28px;
   }
 }
 
 @media only screen and (max-width: 767px) {
   h3.heading-h3 {
-    font-size: 30px;
+    font-size: 20px;
   }
 }
 
@@ -22088,12 +22101,12 @@ h4.heading-h4 {
 }
 
 h5.heading-h5 {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 @media only screen and (max-width: 767px) {
   h5.heading-h5 {
-    font-size: 20px;
+    font-size: 16px;
   }
   h5.heading-h5 br {
     display: none;
@@ -26684,7 +26697,7 @@ Portfolio Nav Page
   position: relative;
   height: 100%;
   min-height: 172px;
-  padding: 20px 20px 20px;
+  padding: 20px 0px 20px;
   background: #fff;
   -webkit-box-flex: 1;
   -ms-flex-positive: 1;
@@ -61683,4 +61696,3 @@ preview Area
     height: 404px;
   }
 }
-/*# sourceMappingURL=style.css.map */

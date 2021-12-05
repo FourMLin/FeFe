@@ -238,12 +238,12 @@
           justify-content: center;
 }
 
-.section-title-top .head-img {
-  max-width: 43px;
+.head-img {
+  max-width: 32px;
   margin-right: 10px;
 }
 
-.section-title-top .head-img img {
+.head-img img {
   width: 100%;
 }
 
@@ -287,4 +287,3 @@
 .mfp-force-scrollbars .mfp-close {
   position: fixed;
 }
-/*# sourceMappingURL=custom.css.map */
