@@ -6,17 +6,17 @@ $purple:#6001D2;
     border-top: 1px solid #eee;
 }
 
-.bk-carousel-slider{
+.bk-carousel-slider {
     border-bottom: 1px solid #eee;
 }
 
-.fefe-bg--1{
+.fefe-bg--1 {
     background: url(../img/bg-image-2.jpg) center no-repeat;
     background-size: cover;
 }
 
-.fefe-bg--2{
-    background:  #6001D2;
+.fefe-bg--2 {
+    background: #6001D2;
 }
 
 .header-purple-fixed {
@@ -34,20 +34,20 @@ $purple:#6001D2;
 
 }
 
-.logo-sticky{
+.logo-sticky {
     display: none;
 }
 
-.headroom--not-top{
+.headroom--not-top {
     .mainmenu-wrapper .page_nav ul.mainmenu li a {
         color: #fff !important;
     }
 
-    .logo-top{
+    .logo-top {
         display: none;
     }
 
-    .logo-sticky{
+    .logo-sticky {
         display: block;
     }
 }
@@ -55,73 +55,76 @@ $purple:#6001D2;
 .bg_image--8 {
     background-image: url(../img/title-bg-2.jpg);
 
-    @media screen and (max-width: 767px){
+    @media screen and (max-width: 767px) {
         background-image: none;
         background-color: #fff;
 
-        .newheading{
+        .newheading {
 
-            h2{
+            h2 {
                 color: #000;
                 font-size: 30px;
             }
         }
 
-        .breadcrumb-insite,.newheading-img{
+        .breadcrumb-insite,
+        .newheading-img {
             display: none;
         }
     }
 }
 
-.fefe-figur{
+.fefe-figur {
     max-width: 230px;
     position: absolute;
     top: 55%;
     left: 53%;
-    transform: translate(-50%,-50%);
+    transform: translate(-50%, -50%);
 
-    @media screen and (max-width: 767px){
+    @media screen and (max-width: 767px) {
         display: none;
     }
 
-    img{
+    img {
         width: 100%;
     }
 }
 
-.info-img{
+.info-img {
     width: 20px;
     margin-right: 10px;
     margin-top: -5px;
 
-    img{
+    img {
         width: 100%;
     }
 }
 
 
-.vedio-part{
+.vedio-part {
     display: none !important;
-    @media screen and (max-width: 767px){
+
+    @media screen and (max-width: 767px) {
         display: none !important;
     }
 }
 
-.sm_d-none{
-    @media screen and (max-width: 767px){
+.sm_d-none {
+    @media screen and (max-width: 767px) {
         display: none !important;
     }
 }
 
-.sm_show{
+.sm_show {
     display: none;
-    @media screen and (max-width: 767px){
+
+    @media screen and (max-width: 767px) {
         display: block !important;
     }
 }
 
-.sm_center{
-    @media screen and (max-width: 767px){
+.sm_center {
+    @media screen and (max-width: 767px) {
         text-align: center !important;
     }
 }
@@ -130,7 +133,7 @@ $purple:#6001D2;
     display: flex;
     justify-content: center;
 
-    @media screen and (max-width: 767px){
+    @media screen and (max-width: 767px) {
         justify-content: left;
     }
 
@@ -158,22 +161,22 @@ $purple:#6001D2;
     white-space: pre-line;
 }
 
-.lg-img{
+.lg-img {
     display: block;
 }
 
-.sm-img{
+.sm-img {
     display: none;
 }
 
 @media screen and (max-width: 767px) {
-    .lg-img{
+    .lg-img {
         display: none;
         opacity: 0;
         visibility: hidden;
     }
-    
-    .sm-img{
+
+    .sm-img {
         display: block;
     }
 }
@@ -199,6 +202,7 @@ $purple:#6001D2;
     .pr_sm--0 {
         padding-right: 0;
     }
+
     .pt_sm--0 {
         padding-top: 0;
     }
@@ -228,26 +232,26 @@ $purple:#6001D2;
     flex-wrap: wrap;
 }
 
-.event-nailimg{
+.event-nailimg {
     flex: 1 0 50%;
     max-width: 50%;
     padding: 5px;
 }
 
-.section-title-top{
+.section-title-top {
     justify-content: center;
 }
 
-.head-img{
+.head-img {
     max-width: 32px;
     margin-right: 10px;
 
-    img{
+    img {
         width: 100%;
     }
 }
 
-.add-mt{
+.add-mt {
     margin-top: 30px;
 }
 
@@ -273,21 +277,29 @@ $purple:#6001D2;
 }
 
 .mfp-img {
-    cursor: pointer; 
-   }
-   .mfp-force-scrollbars {
-     &.mfp-wrap {
-         overflow-y: auto !important;
-         overflow-x: auto !important;
-     }
-     .mfp-img {
-       max-width: none;
-     }
-     .mfp-close {
-      position: fixed;
-     }
-     
-   }
-   
-   
-   
+    cursor: pointer;
+}
+
+.mfp-force-scrollbars {
+    &.mfp-wrap {
+        overflow-y: auto !important;
+        overflow-x: auto !important;
+    }
+
+    .mfp-img {
+        max-width: none;
+    }
+
+    .mfp-close {
+        position: fixed;
+    }
+
+}
+
+.tp-bullets{
+
+    @media screen and (max-width: 767px){
+        transform: matrix(1, 0, 0, 1, -65, -72) !important;
+    }
+    
+}

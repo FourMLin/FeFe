@@ -59,7 +59,8 @@
     color: #000;
     font-size: 30px;
   }
-  .bg_image--8 .breadcrumb-insite, .bg_image--8 .newheading-img {
+  .bg_image--8 .breadcrumb-insite,
+  .bg_image--8 .newheading-img {
     display: none;
   }
 }
@@ -291,5 +292,12 @@
 
 .mfp-force-scrollbars .mfp-close {
   position: fixed;
+}
+
+@media screen and (max-width: 767px) {
+  .tp-bullets {
+    -webkit-transform: matrix(1, 0, 0, 1, -65, -72) !important;
+            transform: matrix(1, 0, 0, 1, -65, -72) !important;
+  }
 }
 /*# sourceMappingURL=custom.css.map */
