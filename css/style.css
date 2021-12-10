@@ -11924,7 +11924,7 @@ a.moredetails-btn.yellow-color-2:hover {
 .section-title h3 {
   color: #6001D2;
   font-size: 24px;
-  font-weight: 700;
+  font-weight: bold;
   letter-spacing: 1px;
   text-transform: uppercase;
   line-height: 1.43;
@@ -11943,6 +11943,7 @@ a.moredetails-btn.yellow-color-2:hover {
 .section-title h2 {
   font-size: 26px;
   line-height: 1.58;
+  font-weight: bold;
   margin-bottom: 0;
   word-wrap: break-word;
   max-width: 100%;
@@ -30991,7 +30992,7 @@ Main Components
   position: relative;
   overflow: hidden;
   z-index: 1;
-  font-weight: 600;
+  font-weight: bold;
   line-height: 1.18;
   font-size: 18px;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;

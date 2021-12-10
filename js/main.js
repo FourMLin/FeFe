@@ -1187,6 +1187,7 @@
     const youtube_video = new Plyr('#youtube-video');
     const youtube_video2 = new Plyr('#youtube-video2');
     const youtube_video3 = new Plyr('#youtube-video3');
+    const youtube_video4 = new Plyr('#youtube-video4');
     const vimeo_player = new Plyr('#vimeo-player');
 
     /*===================================
