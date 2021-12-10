@@ -7,7 +7,8 @@ var event = new Vue({
             date: '2021.11.19',
             category:'主題親子繪本',
             link:'new-event-inner.html',
-            images:'img/newEvent-20211023pic0.jpg'
+            images:'img/newEvent-20211023pic0.jpg',
+            link2:'https://www.takoham.org.tw/'
         },
 		
 		{
@@ -15,7 +16,8 @@ var event = new Vue({
             date: '2021.11.19',
             category:'主題親子繪本',
             link:'https://www.beclass.com/rid=25465ad6194c73497ae6?fbclid=IwAR0mNRQ4aEzy5KjsP_1A7gx-ehA8r3hgDKjzeWgZZF9Y25q9gE2YOZ7V-Sw',
-            images:'img/newEvent-20211119pic0.jpg'
+            images:'img/newEvent-20211119pic0.jpg',
+            link2:'https://www.takoham.org.tw/'
         },
 		
 		{
@@ -23,7 +25,8 @@ var event = new Vue({
             date: '2021.09.09',
             category:'故事館募集',
             link:'https://www.takoham.org.tw/news/4',
-            images:'img/newEvent-20210909pic0.jpg'
+            images:'img/newEvent-20210909pic0.jpg',
+            link2:'https://www.takoham.org.tw/'
         },
 		
 		{
@@ -31,7 +34,8 @@ var event = new Vue({
             date: '2021.11.23',
             category:'大嵙崁志工招募',
             link:'https://www.takoham.org.tw/news/3/97',
-            images:'img/newEvent-bg.jpg'
+            images:'img/newEvent-bg.jpg',
+            link2:'https://www.takoham.org.tw/'
         },
 		
 		{
@@ -39,15 +43,8 @@ var event = new Vue({
             date: '2021.11.05',
             category:'大嵙崁志工招募',
             link:'https://www.takoham.org.tw/news/3/93',
-            images:'img/newEvent-bg.jpg'
-        },
-		
-		{
-            title: '110年9月26日大嵙崁石炭風雲特展暫停開放',
-            date: '2021.11.05',
-            category:'大嵙崁志工招募',
-            link:'https://www.takoham.org.tw/news/3/82',
-            images:'img/newEvent-bg.jpg'
+            images:'img/newEvent-bg.jpg',
+            link2:'https://www.takoham.org.tw/'
         },
 		
 		{
@@ -55,7 +52,8 @@ var event = new Vue({
             date: '2021.09.08',
             category:'活動錄取名單',
             link:'https://www.takoham.org.tw/news/3/52',
-            images:'img/newEvent-bg.jpg'
+            images:'img/newEvent-bg.jpg',
+            link2:'https://www.takoham.org.tw/'
         },
 		
 		{
@@ -63,7 +61,8 @@ var event = new Vue({
             date: '2021.08.05',
             category:'志工隊招募',
             link:'https://www.takoham.org.tw/news/3/14',
-            images:'img/newEvent-bg.jpg'
+            images:'img/newEvent-bg.jpg',
+            link2:'https://www.takoham.org.tw/'
         },
 		
         ],
