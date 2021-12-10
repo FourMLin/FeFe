@@ -314,7 +314,7 @@
 
                 &[class*=hint--][aria-label]:after {
                     font-family: $body-font;
-                    font-weight: 600;
+                    font-weight: 500;
                     line-height: 1.23;
                     content: attr(aria-label);
                 }
@@ -646,7 +646,7 @@ a {
 
     &[class*=hint--][aria-label]:after {
         font-family: $body-font;
-        font-weight: 600;
+        font-weight: 500;
         line-height: 1.23;
         content: attr(aria-label);
     }

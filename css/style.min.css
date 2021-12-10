@@ -689,7 +689,7 @@ h4,
 .h4,
 h5,
 .h5 {
-  font-weight: 600;
+  font-weight: 500;
 }
 
 h6,
@@ -12549,7 +12549,7 @@ button.bk-btn {
   color: #fff;
   display: inline-block;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: 0em;
   font-family: "Poppins", sans-serif;
 }
@@ -12580,7 +12580,7 @@ button.brook-btn {
   border-width: 0;
   -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
           box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: 0em;
   font-family: "Poppins", sans-serif;
   display: inline-block;
@@ -12813,7 +12813,7 @@ button.brook-btn:hover {
 }
 
 a.moredetails-btn {
-  font-weight: 600;
+  font-weight: 500;
   font-size: 14px;
   color: #222;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -12859,7 +12859,7 @@ a.moredetails-btn.yellow-color-2:hover {
   font-weight: 700;
 }
 .view-more-btn.font-600 a {
-  font-weight: 600;
+  font-weight: 500;
 }
 .view-more-btn a {
   font-size: 14px;
@@ -13454,7 +13454,7 @@ a.moredetails-btn.yellow-color-2:hover {
   display: inline-block;
   border: 0;
   background-color: transparent;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 16px;
   color: #111;
   text-transform: uppercase;
@@ -13581,7 +13581,7 @@ Creative Agency Section Title
   font-weight: 700;
 }
 .section-title--between .section-btn a.button-text {
-  font-weight: 600;
+  font-weight: 500;
   font-size: 14px;
   color: #fff;
   font-family: "Poppins", sans-serif;
@@ -13712,7 +13712,7 @@ Creative Agency Section Title
   margin-bottom: 18px;
   color: #222222;
   font-family: "Poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
 }
 .service.service--1 .content p {
   color: #333;
@@ -13724,7 +13724,7 @@ Creative Agency Section Title
 .service.service--1 .content a.service-btn {
   border: 0;
   background-color: transparent;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 14px;
   color: #222;
   display: inline-block;
@@ -13812,7 +13812,7 @@ Creative Agency Section Title
   font-size: 18px;
   margin-bottom: 14px;
   margin-top: 28px;
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: 0em;
   line-height: 1.23;
   font-family: "Poppins", sans-serif;
@@ -14090,7 +14090,7 @@ Creative Agency Section Title
 }
 .brook-counter .content h6 {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.5;
   color: #333333;
 }
@@ -14145,7 +14145,7 @@ Creative Agency Section Title
 .brook-counter.onepage-counter .content span {
   margin-bottom: 21px;
   font-size: 80px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 0.9;
 }
 @media only screen and (max-width: 767px) {
@@ -14155,7 +14155,7 @@ Creative Agency Section Title
 }
 .brook-counter.onepage-counter .content h6 {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.5;
   color: #333333;
 }
@@ -14231,7 +14231,7 @@ Counterup Area
   margin-bottom: 0;
   color: #222222;
   font-family: "Poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
 }
 .number-wrap .content p {
   margin-top: 20px;
@@ -14289,7 +14289,7 @@ Counterup Area
   padding: 0;
   border: 0;
   background-color: transparent;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 14px;
   color: #222;
   font-family: "Poppins", sans-serif;
@@ -14485,7 +14485,7 @@ Counterup Area
   line-height: 1.388;
   margin-bottom: 4px;
   color: #222222;
-  font-weight: 600;
+  font-weight: 500;
   font-family: "Poppins", sans-serif;
 }
 .team.team_style--1 .info span {
@@ -15145,7 +15145,7 @@ Blog Default Style
   font-size: 20px;
   line-height: 1.56;
   margin-bottom: 0;
-  font-weight: 600;
+  font-weight: 500;
   font-family: "Poppins", sans-serif;
   margin: 0 0 18px;
 }
@@ -15309,7 +15309,7 @@ Blog Default Style
   font-size: 24px;
   line-height: 1.375;
   margin-bottom: 0;
-  font-weight: 600;
+  font-weight: 500;
   font-family: "Poppins", sans-serif;
   margin: 0 0 18px;
 }
@@ -15320,7 +15320,7 @@ Blog Default Style
   font-size: 18px;
   line-height: 1.12;
   margin-bottom: 0;
-  font-weight: 600;
+  font-weight: 500;
   font-family: "Poppins", sans-serif;
 }
 .blog-style--1 .blog-content .content h6.post-quote-by a {
@@ -15598,7 +15598,7 @@ Contact Form Style 01
   border-width: 1px;
   border-style: solid;
   border-radius: 6px;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 14px;
   letter-spacing: 0;
   cursor: pointer;
@@ -15641,7 +15641,7 @@ Contact Form Style 01
   border-color: #6001D2;
   background-color: #6001D2;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 500;
   font-family: "Poppins", sans-serif;
   border-radius: 6px;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -15793,7 +15793,7 @@ Contact Form Style 01
 .contact-form.contact-form--4.heading-hover .input-box button {
   width: auto;
   padding: 0 25px;
-  font-weight: 600;
+  font-weight: 500;
 }
 .contact-form.contact-form--4.heading-hover .input-box button:hover {
   background: #222222;
@@ -15968,7 +15968,7 @@ Contact Form Style 01
 }
 .about--creative .content a.about-btn {
   background-color: transparent;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 14px;
   color: #fff;
   font-family: "Poppins", sans-serif;
@@ -16146,7 +16146,7 @@ Contact Form Style 01
   -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   font-family: "Poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 14px;
 }
 .call-to-action button i {
@@ -16953,7 +16953,7 @@ Contact Form Style 01
 }
 .social-icon.tooltip-layout li a[class*=hint--][aria-label]:after {
   font-family: "Poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.23;
   content: attr(aria-label);
 }
@@ -17200,7 +17200,7 @@ a[class*=hint--]:before {
 }
 a[class*=hint--][aria-label]:after {
   font-family: "Poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.23;
   content: attr(aria-label);
 }
@@ -18013,7 +18013,7 @@ a:hover.hint--bottom::after {
 .hero-content-5 h3 {
   font-size: 73px;
   line-height: 90px;
-  font-weight: 600;
+  font-weight: 500;
   color: #fff;
   margin-bottom: 40px;
 }
@@ -18122,7 +18122,7 @@ a:hover.hint--bottom::after {
 .carousle-slider .content h5 {
   font-size: 18px;
   margin-bottom: 14px;
-  font-weight: 600;
+  font-weight: 500;
   font-family: "Poppins", sans-serif;
   line-height: 1.23;
 }
@@ -18197,11 +18197,11 @@ Countdown Area
   text-align: center;
   margin-bottom: 18px;
   border-radius: 6px;
-  font-weight: 600;
+  font-weight: 500;
 }
 .countdown-style-1 .timer-grid > div span.count-inner p {
   margin: 0;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 14px;
   color: #ffffff;
 }
@@ -18327,7 +18327,7 @@ Progress Charts
 }
 .progress-charts h6.heading span.percent-label {
   color: #222;
-  font-weight: 600;
+  font-weight: 500;
 }
 .progress-charts .progress {
   height: 4px;
@@ -18356,7 +18356,7 @@ Progress Charts
   right: -7px;
   top: -35px;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 500;
 }
 
 .radial-progress,
@@ -18383,7 +18383,7 @@ Progress Charts
 .radial-progress--2 .circle-text span.count {
   font-size: 18px;
   line-height: 1;
-  font-weight: 600;
+  font-weight: 500;
   color: #222222;
   position: relative;
 }
@@ -18666,7 +18666,7 @@ Progress Charts
   width: 40px;
   line-height: 40px;
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
   color: #fff;
   background: inherit;
   border-radius: 50%;
@@ -18889,7 +18889,7 @@ Pricing PLans
   font-size: 24px;
   color: #222222;
   font-family: "Poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: 0em;
   line-height: 1.23;
   margin: 0;
@@ -18898,7 +18898,7 @@ Pricing PLans
   font-size: 14px;
   color: #222222;
   font-family: "Poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: 0em;
   line-height: 1.23;
   margin: 0;
@@ -18925,7 +18925,7 @@ Pricing PLans
   color: #fff;
   font-size: 10px;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: 0em;
   line-height: 1.23;
 }
@@ -19582,7 +19582,7 @@ Contagion Area
 .single-prevination .prevination-content h3 {
   font-size: 24px;
   line-height: 28px;
-  font-weight: 600;
+  font-weight: 500;
   color: #6001D2;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -19774,7 +19774,7 @@ Testimonial Area
   line-height: 1.388;
   margin-bottom: 6px;
   color: #222222;
-  font-weight: 600;
+  font-weight: 500;
   font-family: "Poppins", sans-serif;
 }
 .testimonial_style--1 .content .testimonial-info .clint-info span {
@@ -20268,7 +20268,7 @@ Testimonial Area
   line-height: 1.388;
   margin-bottom: 6px;
   color: #fff;
-  font-weight: 600;
+  font-weight: 500;
   font-family: "Poppins", sans-serif;
 }
 .testimonial_style--4 .content .testimonial-info .clint-info span {
@@ -20309,7 +20309,7 @@ Testimonial Area
   line-height: 1.388;
   margin-bottom: 6px;
   color: #fff;
-  font-weight: 600;
+  font-weight: 500;
   font-family: "Poppins", sans-serif;
 }
 .testimonial_style--5 .content .testimonial-info .clint-info span {
@@ -20912,7 +20912,7 @@ audio {
   border: 0 none;
   padding: 0;
   display: block;
-  font-weight: 600;
+  font-weight: 500;
   -webkit-transition: all 1s cubic-bezier(0, 0, 0.2, 1);
   -o-transition: all 1s cubic-bezier(0, 0, 0.2, 1);
   transition: all 1s cubic-bezier(0, 0, 0.2, 1);
@@ -21036,13 +21036,13 @@ audio {
 Breadcaump Area 
 =============================*/
 .breadcaump-area.breadcaump-title-bar .breadcaump-inner .heading {
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.41;
   font-size: 32px;
   font-family: "Poppins", sans-serif;
 }
 .breadcaump-area.breadcaump-title-bar .breadcaump-inner .heading.heading-h1 {
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.41;
   font-size: 56px;
 }
@@ -21459,7 +21459,7 @@ Breadcaump Area
 }
 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 a {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
   color: #333333;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -21476,7 +21476,7 @@ Breadcaump Area
 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner .quatity span {
   display: inline-block;
   font-size: 15px;
-  font-weight: 600;
+  font-weight: 500;
   color: #333333;
 }
 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .delete-btn {
@@ -21505,13 +21505,13 @@ Breadcaump Area
   color: #333333;
 }
 .mini-cart .shopping-cart .footer .total span {
-  font-weight: 600;
+  font-weight: 500;
   color: #333333;
   padding-left: 3px;
 }
 .mini-cart .shopping-cart .footer a.cart-btn {
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 500;
   color: #ffffff;
   border-color: #6001D2;
   background-color: #6001D2;
@@ -21700,7 +21700,7 @@ Start Dropdown Menu
   margin: 0 30px 18px 0;
   padding-bottom: 12px;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 14px;
   border: 0 solid transparent;
   border-bottom: 1px solid #444;
@@ -21863,7 +21863,7 @@ Typography Area
 .heading {
   color: #222222;
   font-family: "Poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: 0em;
   line-height: 1.23;
   margin: 0;
@@ -22011,7 +22011,7 @@ h1.heading-h1 {
 h1.heading-h1.large-font-1 {
   font-size: 79px;
   line-height: 159px;
-  font-weight: 600;
+  font-weight: 500;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
   h1.heading-h1.large-font-1 {
@@ -22114,7 +22114,7 @@ h1.heading-h1.font-60 {
 h1.heading-h1.large-font-2 {
   line-height: 1.4;
   font-size: 100px;
-  font-weight: 600;
+  font-weight: 500;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   h1.heading-h1.large-font-2 {
@@ -22379,7 +22379,7 @@ p.bk_pra.line-height-2-22 {
 }
 .dropcaps p span {
   float: left;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 48px;
   line-height: 33px;
   padding-right: 10px;
@@ -22426,7 +22426,7 @@ p.bk_pra.line-height-2-22 {
   margin: 37px 0 44px !important;
   padding: 0 0 0 53px;
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.625;
 }
 .brook-quote::before {
@@ -22444,7 +22444,7 @@ p.bk_pra.line-height-2-22 {
 }
 .brook-quote .quote-text {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.625;
   color: #222222;
   font-family: "Poppins", sans-serif;
@@ -22613,7 +22613,7 @@ Pricing Box
   text-transform: uppercase;
   font-size: 10px;
   line-height: 1.4;
-  font-weight: 600;
+  font-weight: 500;
   color: #fff;
 }
 .procing-box .header .feature-mark::before {
@@ -22641,7 +22641,7 @@ Pricing Box
   font-size: 48px;
   line-height: 0.9;
   margin: 0 4px;
-  font-weight: 600;
+  font-weight: 500;
 }
 .procing-box .content h5.heading {
   margin-bottom: 21px;
@@ -22701,7 +22701,7 @@ Pricing Box
   font-size: 40px;
   line-height: 1.275;
   margin: 0;
-  font-weight: 600;
+  font-weight: 500;
 }
 .price-style-3 .procing-box .header .price-area .period {
   font-size: 15px;
@@ -22840,7 +22840,7 @@ Pricing Box
 }
 .icon-box .inner .content a.icon-btn span {
   padding: 5px 0;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 14px;
 }
 .icon-box .inner .content a.icon-btn i {
@@ -23337,7 +23337,7 @@ Dividers Area
   font-size: 18px;
   line-height: 1.2;
   padding: 0;
-  font-weight: 600;
+  font-weight: 500;
   border: 0 none;
   font-family: "Poppins", sans-serif;
   -webkit-appearance: none;
@@ -23401,7 +23401,7 @@ Dividers Area
 .bk-accordion-style--2 .card-header h5 a.acc-btn {
   color: #111;
   padding: 0;
-  font-weight: 600;
+  font-weight: 500;
   border: 0 none;
   font-family: "Poppins", sans-serif;
   -webkit-appearance: none;
@@ -23469,7 +23469,7 @@ Dividers Area
 .bk-accordion-style--2.border-style .card-header h5 a.acc-btn {
   font-size: 24px;
   line-height: 1.2;
-  font-weight: 600;
+  font-weight: 500;
   font-family: "Montserrat", sans-serif;
   padding: 14px 0 14px 26px;
 }
@@ -23544,7 +23544,7 @@ Dividers Area
 .faq-content h2 {
   font-size: 50px;
   line-height: 65px;
-  font-weight: 600;
+  font-weight: 500;
   color: #6001D2;
   margin-bottom: 30px;
 }
@@ -24256,7 +24256,7 @@ body.loaded .page-loading {
   line-height: 1.4;
   color: #fff;
   margin: 0;
-  font-weight: 600;
+  font-weight: 500;
   letter-spacing: 0em;
   font-family: "Poppins", sans-serif;
 }
@@ -25097,7 +25097,7 @@ body.loaded .page-loading {
 .portfolio.with-caption .thumb .port-plus-view::before {
   content: "";
   font-family: Font Awesome\ 5 Free;
-  font-weight: 600;
+  font-weight: 500;
   position: absolute;
   left: 50%;
   -webkit-transform: translateX(-50%);
@@ -25206,7 +25206,7 @@ body.loaded .page-loading {
   -webkit-box-flex: 1;
   -ms-flex-positive: 1;
   flex-grow: 1;
-  font-weight: 600;
+  font-weight: 500;
   font-family: "Poppins", sans-serif;
 }
 .portfolio-cation .port-overlay-info .hover-action .post-overlay-title a {
@@ -25239,7 +25239,7 @@ body.loaded .page-loading {
   padding: 5px 15px;
 }
 .messonry-button button span.filter-text {
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.58;
   font-size: 14px;
   color: #333333;
@@ -25268,7 +25268,7 @@ body.loaded .page-loading {
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-  font-weight: 600;
+  font-weight: 500;
   font-family: "Poppins", sans-serif;
 }
 .messonry-button button span.filter-counter::before {
@@ -25302,7 +25302,7 @@ body.loaded .page-loading {
 
 .toggle-btn .loadMore {
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 500;
   color: #222222;
   border: 0 none;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -25338,7 +25338,7 @@ body.loaded .page-loading {
 }
 .messonry-button--2 button span.filter-text {
   letter-spacing: 0.2px;
-  font-weight: 600;
+  font-weight: 500;
   color: #333;
   line-height: 1.58;
   font-size: 14px;
@@ -25663,7 +25663,7 @@ Has Center
   -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   font-family: Montserrat, Helvetica, Arial, sans-serif;
-  font-weight: 600;
+  font-weight: 500;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .type-portfolio-wrapper .type-portfolio h3 a {
@@ -25859,7 +25859,7 @@ Has Center
   -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   font-family: Poppins, Helvetica, Arial, sans-serif;
-  font-weight: 600;
+  font-weight: 500;
 }
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
   .portfolio-type2-content .type-portfolio-wrapper-2 .type-portfolio2 h3 a {
@@ -26213,7 +26213,7 @@ Portfolio Details
 .portfolio-details-list .details-list label {
   color: #222222;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 14px;
   margin-bottom: 12px;
 }
@@ -27082,7 +27082,7 @@ Portfolio Nav Page
   margin-bottom: 21px;
   font-size: 24px;
   line-height: 1.392;
-  font-weight: 600;
+  font-weight: 500;
   color: inherit;
 }
 .blog-grid-minimal .post-content h5.heading a {
@@ -27322,7 +27322,7 @@ Blog Details
   background: #fff;
   font-size: 24px;
   line-height: 1.375;
-  font-weight: 600;
+  font-weight: 500;
   color: #222;
   word-wrap: break-word;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -27548,7 +27548,7 @@ Blog Main Quote
   padding-bottom: 11px;
   border-bottom: 1px solid #eee;
   font-family: "Poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.23;
   color: #222222;
 }
@@ -27732,7 +27732,7 @@ Shop Sidebar
   padding-bottom: 11px;
   border-bottom: 1px solid #eee;
   font-family: "Poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.23;
   color: #222222;
 }
@@ -28101,7 +28101,7 @@ Shop Sidebar
   border-radius: 10px 10px 10px 0;
   color: #fff;
   text-align: center;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 13px;
   line-height: 1.44;
   text-transform: uppercase;
@@ -28115,7 +28115,7 @@ Shop Sidebar
 }
 .single-product-details-side .price p {
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 500;
 }
 .single-product-details-side .description {
   margin-bottom: 44px;
@@ -28163,7 +28163,7 @@ Shop Sidebar
 .single-product-details-side .product-action a.addtocart {
   padding: 0 30px 0;
   height: 53px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 52px;
   font-size: 16px;
 }
@@ -28234,7 +28234,7 @@ Shop Sidebar
   display: inline-block;
   font-size: 24px;
   margin-right: 3px;
-  font-weight: 600;
+  font-weight: 500;
 }
 .single_product_inner .rating {
   display: -webkit-box;
@@ -28407,7 +28407,7 @@ Shop Sidebar
   border-bottom: 2px solid transparent;
   padding: 13px 0;
   font-size: 20px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.5;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   -o-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -28492,7 +28492,7 @@ Shop Sidebar
   background-color: #252525;
   color: #ffffff;
   display: inline-block;
-  font-weight: 600;
+  font-weight: 500;
   height: 45px;
   line-height: 45px;
   margin-top: 30px;
@@ -28630,7 +28630,7 @@ Shop Sidebar
   border: none;
   font-size: 16px;
   text-transform: uppercase;
-  font-weight: 600;
+  font-weight: 500;
   color: #222222;
   padding: 12px 20px;
 }
@@ -28676,13 +28676,13 @@ Shop Sidebar
 }
 .cart-table td.pro-title a {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
   color: #222222;
 }
 .cart-table td.pro-price span {
   display: block;
   font-size: 15px;
-  font-weight: 600;
+  font-weight: 500;
   color: #333333;
 }
 .cart-table td.pro-quantity .pro-qty {
@@ -28723,7 +28723,7 @@ Shop Sidebar
 .cart-table td.pro-subtotal span {
   display: block;
   font-size: 15px;
-  font-weight: 600;
+  font-weight: 500;
   color: #6001D2;
 }
 .cart-table td.pro-addtocart button {
@@ -28740,7 +28740,7 @@ Shop Sidebar
 }
 .cart-table td.pro-remove a {
   display: block;
-  font-weight: 600;
+  font-weight: 500;
   color: #222222;
 }
 .cart-table td.pro-remove a i {
@@ -28870,7 +28870,7 @@ Shop Sidebar
 }
 .cart-summary .cart-summary-wrap p {
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 23px;
   color: #222222;
 }
@@ -28978,7 +28978,7 @@ Shop Sidebar
   display: block;
   font-size: 14px;
   margin-bottom: 12px;
-  font-weight: 600;
+  font-weight: 500;
   text-transform: capitalize;
   color: #222222;
 }
@@ -29127,7 +29127,7 @@ Shop Sidebar
   color: #333333;
   font-size: 14px;
   line-height: 23px;
-  font-weight: 600;
+  font-weight: 500;
   display: block;
   margin-bottom: 16px;
 }
@@ -29138,7 +29138,7 @@ Shop Sidebar
 .checkout-cart-total p {
   font-size: 14px;
   line-height: 30px;
-  font-weight: 600;
+  font-weight: 500;
   color: #505050;
   padding: 10px 0;
   border-bottom: 1px solid #999999;
@@ -29304,7 +29304,7 @@ Shop Sidebar
 .compare-table .table tbody tr td.first-column {
   min-width: 180px;
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 500;
   color: #222222;
   margin: 0;
   line-height: 1;
@@ -29338,7 +29338,7 @@ Shop Sidebar
   float: left;
   clear: both;
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
   color: #222222;
   line-height: 20px;
   margin-bottom: 10px;
@@ -29350,17 +29350,17 @@ Shop Sidebar
 }
 .compare-table .table tbody tr td.pro-price {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
   color: #333333;
 }
 .compare-table .table tbody tr td.pro-color {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
   color: #333333;
 }
 .compare-table .table tbody tr td.pro-stock {
   font-size: 16px;
-  font-weight: 600;
+  font-weight: 500;
   color: #333333;
 }
 .compare-table .table tbody tr td.pro-addtocart .add-to-cart {
@@ -29432,7 +29432,7 @@ Shop Sidebar
   border: 1px solid #e7e7e7;
   color: #434343;
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 500;
   margin: 0 0 30px;
   position: relative;
   text-transform: uppercase;
@@ -29554,7 +29554,7 @@ Shop Sidebar
   border-radius: 3px;
   color: #fff;
   cursor: pointer;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1;
   padding: 13px 23px;
   text-transform: uppercase;
@@ -30187,7 +30187,7 @@ Main Components
   position: relative;
   overflow: hidden;
   z-index: 1;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.18;
   font-size: 16px;
   font-family: "Poppins", sans-serif;
@@ -31329,7 +31329,7 @@ header.br_header.header-default.header-fixed {
   line-height: 1.4;
   margin-bottom: 21px;
   font-family: "Poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   margin: 0 0 18px;
 }
 .single-motive-speach .content p {
@@ -31902,7 +31902,7 @@ Header Font Family
   text-align: left;
 }
 .fullscreen-slider-activation .slide-portfolio-single .content h5 {
-  font-weight: 600;
+  font-weight: 500;
   margin-bottom: 30px;
   font-family: "Montserrat", sans-serif;
 }
@@ -32843,7 +32843,7 @@ Vertical Slider Area
   font-size: 48px;
   line-height: 1.4;
   margin-bottom: 57px;
-  font-weight: 600;
+  font-weight: 500;
 }
 .single-vertical-slide .slide-inner .info h2.heading a {
   color: #fff;
@@ -32905,7 +32905,7 @@ Indie Musician Area
   color: #fff;
   border-color: rgba(255, 255, 255, 0.4);
   font-size: 14px;
-  font-weight: 600;
+  font-weight: 500;
   position: relative;
   display: inline-block;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -33283,7 +33283,7 @@ Shop Slide Area
   }
 }
 .product-tab li a {
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.58;
   font-size: 14px;
   position: relative;
@@ -33368,7 +33368,7 @@ Shop Slide Area
   border-radius: 10px 10px 10px 0;
   color: #fff;
   text-align: center;
-  font-weight: 600;
+  font-weight: 500;
   font-size: 13px;
   line-height: 1.44;
   text-transform: uppercase;
@@ -33406,7 +33406,7 @@ Shop Slide Area
 }
 .product .product-info .price {
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 500;
 }
 .product .product-info .price span {
   display: inline-block;
@@ -33576,7 +33576,7 @@ Shop Slide Area
 }
 .product .product-thumbnail .product-action .action-list.tooltip-layout li a[class*=hint--][aria-label]:after {
   font-family: "Poppins", sans-serif;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.23;
   content: attr(aria-label);
 }
@@ -34143,7 +34143,7 @@ Prresentation Area
 /* Footer Widget */
 .footer-widget h2.widgettitle {
   font-size: 18px;
-  font-weight: 600;
+  font-weight: 500;
   line-height: 1.2;
   color: #fff;
   border-bottom-color: rgba(0, 0, 0, 0);

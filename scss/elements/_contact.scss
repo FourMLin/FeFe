@@ -291,7 +291,7 @@ Contact Form Style 01
                 border-width: 1px;
                 border-style: solid;
                 border-radius: 6px;
-                font-weight: 600;
+                font-weight: 500;
                 font-size: 14px;
                 letter-spacing: 0;
                 cursor: pointer;
@@ -339,7 +339,7 @@ Contact Form Style 01
             border-color: #6001D2;
             background-color: #6001D2;
             font-size: 14px;
-            font-weight: 600;
+            font-weight: 500;
             font-family: $body-font;
             border-radius: 6px;
             -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
@@ -501,7 +501,7 @@ Contact Form Style 01
                 button {
                     width: auto;
                     padding: 0 25px;
-                    font-weight: 600;
+                    font-weight: 500;
                     &:hover {
                         background: $heading-color;
                         color: #ffffff;

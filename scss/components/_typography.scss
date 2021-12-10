@@ -14,7 +14,7 @@ Typography Area
 .heading{
     color: $heading-color;
     font-family: $body-font;
-    font-weight: 600;
+    font-weight: 500;
     letter-spacing: 0em;
     line-height: 1.23;
     margin: 0;
@@ -170,7 +170,7 @@ h1{
         &.large-font-1 {
             font-size: 79px;
             line-height: 159px;
-            font-weight: 600;
+            font-weight: 500;
 
             @media #{$laptop-device} {
                 font-size: 57px;
@@ -261,7 +261,7 @@ h1{
         &.large-font-2 {
             line-height: 1.4;
             font-size: 100px;
-            font-weight: 600;
+            font-weight: 500;
 
             @media #{$lg-layout} {
                 font-size: 80px;
@@ -528,7 +528,7 @@ p{
 
         span{
             float: left;
-            font-weight: 600;
+            font-weight: 500;
             font-size: 48px;
             line-height: 33px;
             padding-right: 10px;
@@ -592,7 +592,7 @@ p{
     margin: 37px 0 44px!important;
     padding: 0 0 0 53px;
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 500;
     line-height: 1.625;
     &::before{
         content: "\f10e";
@@ -609,7 +609,7 @@ p{
     }
     .quote-text{
         font-size: 16px;
-        font-weight: 600;
+        font-weight: 500;
         line-height: 1.625;
         color: $heading-color;
         font-family: $body-font;
