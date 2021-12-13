@@ -579,22 +579,22 @@
         "time": {
             "Days": {
                 "text": "Days",
-                "color": "#6001D2",
+                "color": "#5000ae",
                 "show": true
             },
             "Hours": {
                 "text": "Hours",
-                "color": "#6001D2",
+                "color": "#5000ae",
                 "show": true
             },
             "Minutes": {
                 "text": "Minutes",
-                "color": "#6001D2",
+                "color": "#5000ae",
                 "show": true
             },
             "Seconds": {
                 "text": "Seconds",
-                "color": "#6001D2",
+                "color": "#5000ae",
                 "show": true
             }
         }
@@ -730,9 +730,8 @@
     =========================================*/
 
     $(window).load(function () {
-       
         $('.bk-masonary-wrapper').imagesLoaded(function () {
-            
+
             // filter items on button click
             $('.messonry-button , .mesonary-button-active').on('click', 'button', function () {
                 var filterValue = $(this).attr('data-filter');
@@ -762,7 +761,7 @@
 
     $(window).load(function () {
         $('.bk-blog-masonry').imagesLoaded(function () {
-            $('#defaultClick').trigger('click');
+
             // filter items on button click
             $('.messonry-button').on('click', 'button', function () {
                 var filterValue = $(this).attr('data-filter');
@@ -1188,9 +1187,9 @@
     const youtube_video2 = new Plyr('#youtube-video2');
     const youtube_video3 = new Plyr('#youtube-video3');
     const youtube_video4 = new Plyr('#youtube-video4');
-    const youtube_video4 = new Plyr('#youtube-video5');
-    const youtube_video4 = new Plyr('#youtube-video6');
-    const youtube_video4 = new Plyr('#youtube-video7');
+    const youtube_video5 = new Plyr('#youtube-video5');
+    const youtube_video6 = new Plyr('#youtube-video6');
+    const youtube_video7 = new Plyr('#youtube-video7');
     const vimeo_player = new Plyr('#vimeo-player');
 
     /*===================================
