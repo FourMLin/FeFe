@@ -379,9 +379,9 @@ h4{
 
 h5{
     &.heading-h5{
-        font-size: 20px;
+        font-size: 18px;
         @media #{$sm-layout} {
-            font-size: 18px;
+            font-size: 16px;
             br{
                 display: none;
             }
