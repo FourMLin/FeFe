@@ -300,4 +300,21 @@
             transform: matrix(1, 0, 0, 1, -65, -72) !important;
   }
 }
+
+.bg_image--58 {
+  background-image: url(../img/coming-soon-web.jpg);
+  background-position: top !important;
+}
+
+@media screen and (max-width: 767px) {
+  .bg_image--58 {
+    background-image: url(../img/coming-soon-phone1.jpg);
+  }
+}
+
+@media screen and (max-width: 415px) {
+  .bg_image--58 {
+    background-image: url(../img/coming-soon-phone2.jpg);
+  }
+}
 /*# sourceMappingURL=custom.css.map */

@@ -303,3 +303,15 @@ $purple:#6001D2;
     }
     
 }
+
+.bg_image--58{
+    background-image: url(../img/coming-soon-web.jpg);
+    background-position: top !important;
+    @media screen and (max-width: 767px){
+        background-image: url(../img/coming-soon-phone1.jpg);
+    }
+
+    @media screen and (max-width: 415px){
+        background-image: url(../img/coming-soon-phone2.jpg);
+    }
+}

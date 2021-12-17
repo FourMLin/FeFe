@@ -931,7 +931,6 @@ Animation Css
 
 .bk-hover a {
   position: relative;
-  overflow: hidden;
   z-index: 1;
   display: inline-block;
   color: #999;
@@ -35352,7 +35351,6 @@ Prresentation Area
 }
 
 .footer-widget .footer-address p a {
-  padding: 4px 0;
   line-height: 10px;
   color: #ffffff;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);

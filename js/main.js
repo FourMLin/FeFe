@@ -563,7 +563,7 @@
         var $this = $(this),
             finalDate = $(this).data('countdown');
         $this.countdown(finalDate, function (event) {
-            $this.html(event.strftime('<span class="ht-count days"><span class="count-inner"><span class="time-count">%-D</span> <p>Days</p></span></span> <span class="ht-count hour"><span class="count-inner"><span class="time-count">%-H</span> <p>Hours</p></span></span> <span class="ht-count minutes"><span class="count-inner"><span class="time-count">%M</span> <p>Minutes</p></span></span> <span class="ht-count second"><span class="count-inner"><span class="time-count">%S</span> <p>Seconds</p></span></span>'));
+            $this.html(event.strftime('<span class="ht-count days"><span class="count-inner"><span class="time-count">%-D</span> <p>天</p></span></span> <span class="ht-count hour"><span class="count-inner"><span class="time-count">%-H</span> <p>小時</p></span></span> <span class="ht-count minutes"><span class="count-inner"><span class="time-count">%M</span> <p>分鐘</p></span></span> <span class="ht-count second"><span class="count-inner"><span class="time-count">%S</span> <p>秒</p></span></span>'));
         });
     });
 
