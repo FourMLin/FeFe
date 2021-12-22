@@ -41,7 +41,7 @@
                 &::before {
                     content: "\f067";
                     font-family: Font Awesome\ 5 Free;
-                    font-weight: 500;
+                    font-weight: 600;
                     position: absolute;
                     left: 50%;
                     transform: translateX(-50%);
@@ -198,7 +198,7 @@
                 -webkit-flex-grow: 1;
                 -ms-flex-positive: 1;
                 flex-grow: 1;
-                font-weight: 500;
+                font-weight: 600;
                 font-family: $body-font;
 
                 a {
@@ -211,7 +211,7 @@
                 -ms-flex-negative: 0;
                 flex-shrink: 0;
                 margin-left: 10px;
-                font-weight: 500;
+                font-weight: 600;
                 font-size: 14px;
                 color: $body-color;
             }

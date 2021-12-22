@@ -65,7 +65,7 @@
             .post-categories{
                 a{
                     font-size: 12px;
-                    font-weight: 500;
+                    font-weight: 600;
                     letter-spacing: 1.38px;
                     text-transform: uppercase;
                     margin-bottom: 9px;
@@ -116,7 +116,7 @@
             h3{
                 &.heading{
                     font-size: 22px;
-                    font-weight: 500;
+                    font-weight: 600;
                     line-height: 1.46;
                     margin-bottom: 37px;
 
@@ -165,7 +165,7 @@
                 .post-date{
                     line-height: 1.58;
                     font-size: 15px;
-                    font-weight: 500;
+                    font-weight: 600;
                     color: $body-color;
                 }
                 .post-category{
@@ -173,7 +173,7 @@
                     margin-left: 7px;
                     line-height: 1.58;
                     font-size: 15px;
-                    font-weight: 500;
+                    font-weight: 600;
                     &::before{
                         content: "|";
                         position: absolute;
@@ -222,7 +222,7 @@
             .post-inner{
                 & h3.heading{
                     font-size: 18px;
-                    font-weight: 500;
+                    font-weight: 600;
                     line-height: 1.56;
                     margin: 9px 0 20px;
                 }

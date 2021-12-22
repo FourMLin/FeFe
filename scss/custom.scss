@@ -243,7 +243,7 @@ $purple:#6001D2;
 }
 
 .head-img {
-    max-width: 32px;
+    max-width: 48px;
     margin-right: 10px;
 
     img {
@@ -314,4 +314,8 @@ $purple:#6001D2;
     @media screen and (max-width: 415px){
         background-image: url(../img/coming-soon-phone2.jpg);
     }
+}
+
+.post-thumbnail{
+    width: 100px;
 }

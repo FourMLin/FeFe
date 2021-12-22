@@ -19,7 +19,7 @@ Progress Charts
             span{
                 &.percent-label{
                     color: #222;
-                    font-weight: 500;
+                    font-weight: 600;
                 }
             }
         }
@@ -54,7 +54,7 @@ Progress Charts
                     right: -7px;
                     top: -35px;
                     font-size: 14px;
-                    font-weight: 500;
+                    font-weight: 600;
                 }
             }
         }
@@ -89,7 +89,7 @@ Progress Charts
             &.count{
                 font-size: 18px;
                 line-height: 1;
-                font-weight: 500;
+                font-weight: 600;
                 color: $heading-color;
                 position: relative;
                 &.text-white{

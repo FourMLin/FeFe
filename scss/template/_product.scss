@@ -12,7 +12,7 @@
             padding: 5px 15px;
         }
         a{
-            font-weight: 500;
+            font-weight: 600;
             line-height: 1.58;
             font-size: 14px;
             position: relative;
@@ -101,7 +101,7 @@
                     border-radius: 10px 10px 10px 0;
                     color: #fff;
                     text-align: center;
-                    font-weight: 500;
+                    font-weight: 600;
                     font-size: 13px;
                     line-height: 1.44;
                     text-transform: uppercase;
@@ -149,7 +149,7 @@
 
         .price {
             font-size: 18px;
-            font-weight: 500;
+            font-weight: 600;
 
             span {
                 display: inline-block;
@@ -201,7 +201,7 @@
     li{
         a{
             font-size: 12px;
-            font-weight: 500;
+            font-weight: 600;
             text-transform: uppercase;
             letter-spacing: 1.38px;
             width: 100%;
@@ -231,7 +231,7 @@
         text-align: center;
         h5{
             font-size: 18px;
-            font-weight: 500;
+            font-weight: 600;
             margin-bottom: 9px;
         }
         .tag{
@@ -348,7 +348,7 @@
                 
                             &[class*=hint--][aria-label]:after {
                                 font-family: $body-font;
-                                font-weight: 500;
+                                font-weight: 600;
                                 line-height: 1.23;
                                 content: attr(aria-label);
                             }
@@ -485,7 +485,7 @@
                 position: relative;
                 z-index: 1;
                 font-size: 18px;
-                font-weight: 500;
+                font-weight: 600;
                 margin-bottom: 0;
             }
             .menu-separator{

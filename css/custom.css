@@ -245,7 +245,7 @@
 }
 
 .head-img {
-  max-width: 32px;
+  max-width: 48px;
   margin-right: 10px;
 }
 
@@ -316,5 +316,9 @@
   .bg_image--58 {
     background-image: url(../img/coming-soon-phone2.jpg);
   }
+}
+
+.post-thumbnail {
+  width: 100px;
 }
 /*# sourceMappingURL=custom.css.map */

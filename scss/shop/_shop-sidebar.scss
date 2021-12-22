@@ -66,7 +66,7 @@ Shop Sidebar
         padding-bottom: 11px;
         border-bottom: 1px solid #eee;
         font-family: $body-font;
-        font-weight: 500;
+        font-weight: 600;
         line-height: 1.23;
         color: $heading-color;
     }
@@ -203,7 +203,7 @@ Shop Sidebar
                         }
                         .price{
                             span{
-                                font-weight: 500;
+                                font-weight: 600;
                                 font-size: 15px;
                                 display: inline-block;
                                 color: #333;
@@ -261,7 +261,7 @@ Shop Sidebar
                         transition: all .3s cubic-bezier(.645,.045,.355,1);
                         display: block;
                         font-size: 14px;
-                        font-weight: 500;
+                        font-weight: 600;
                         padding: 10px;
                         color: $body-color;
                         &:hover{
@@ -383,7 +383,7 @@ Shop Sidebar
             width: 94px;
             flex-grow: 1;
             font-size: 16px;
-            font-weight: 500;
+            font-weight: 600;
         }
     }
     .price--filter {

@@ -16,7 +16,7 @@ button {
         color: #fff;
         display: inline-block;
         font-size: 14px;
-        font-weight: 500;
+        font-weight: 600;
         letter-spacing: 0em;
         font-family: $body-font;
 
@@ -61,7 +61,7 @@ button {
         color: #fff;
         border-width: 0;
         box-shadow: 0 10px 20px rgba(0, 0, 0, .07);
-        font-weight: 500;
+        font-weight: 600;
         letter-spacing: 0em;
         font-family: $body-font;
         display: inline-block;
@@ -125,7 +125,7 @@ button {
             background-color: #ededed;
             color: $heading-color;
             text-transform: uppercase;
-            font-weight: 500;
+            font-weight: 600;
             font-family: $CerebriSans;
             box-shadow: none;
             &:hover{
@@ -309,7 +309,7 @@ button {
 
 a {
     &.moredetails-btn {
-        font-weight: 500;
+        font-weight: 600;
         font-size: 14px;
         color: #222;
         -webkit-transition: all .3s cubic-bezier(.645, .045, .355, 1);
@@ -391,7 +391,7 @@ a {
 
     &.font-600 {
         a {
-            font-weight: 500;
+            font-weight: 600;
         }
     }
 
@@ -656,7 +656,7 @@ a {
         background-color: #BC9464;
         display: block;
         font-size: 13px;
-        font-weight: 500;
+        font-weight: 600;
         letter-spacing: 1px;
         text-transform: uppercase;
         &:hover{

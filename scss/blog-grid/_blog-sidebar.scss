@@ -34,7 +34,7 @@
         padding-bottom: 11px;
         border-bottom: 1px solid #eee;
         font-family: $body-font;
-        font-weight: 500;
+        font-weight: 600;
         line-height: 1.23;
         color: $heading-color;
     }
@@ -122,7 +122,7 @@
                     color: #333333;
                     -webkit-transition: all .3s cubic-bezier(.645,.045,.355,1);
                     transition: all .3s cubic-bezier(.645,.045,.355,1);
-                    font-weight: 500;
+                    font-weight: 600;
                     line-height: 1.58;
                     font-size: 14px;
                     &:hover{
@@ -183,7 +183,7 @@
                         transition: all .3s cubic-bezier(.645,.045,.355,1);
                         display: block;
                         font-size: 14px;
-                        font-weight: 500;
+                        font-weight: 600;
                         padding: 10px;
                         color: $body-color;
                         &:hover{

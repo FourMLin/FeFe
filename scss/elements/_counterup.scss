@@ -46,7 +46,7 @@ Counterup Area
         }
         h6{
             font-size: 16px;
-            font-weight: 500;
+            font-weight: 600;
             line-height: 1.5;
             color: $body-color;
         }
@@ -103,7 +103,7 @@ Counterup Area
             span{
                 margin-bottom: 21px;
                 font-size: 80px;
-                font-weight: 500;
+                font-weight: 600;
                 line-height: .9;
                 
                 @media #{$sm-layout} {
@@ -112,7 +112,7 @@ Counterup Area
             }
             h6{
                 font-size: 16px;
-                font-weight: 500;
+                font-weight: 600;
                 line-height: 1.5;
                 color: $body-color;
             }
@@ -231,12 +231,12 @@ Counterup Area
             max-width: 100%;
         }
         h6{
-            font-size: 18px;
+            font-size: 24px;
             line-height: 1.39;
             margin-bottom: 0;
             color: #222222;
             font-family: $body-font;
-            font-weight: 500;
+            font-weight: 600;
         }
         p{
             margin-top: 20px;
@@ -298,7 +298,7 @@ Counterup Area
     .content{
         h6{
             font-size: 15px;
-            font-weight: 500;
+            font-weight: 600;
             font-style: italic;
             line-height: 1.6;
             color: #fff;

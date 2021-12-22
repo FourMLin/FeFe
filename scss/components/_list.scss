@@ -26,7 +26,7 @@ List Area
             &.bk_pra{
                 margin-top: 13px;
                 margin-bottom: 0;
-                font-weight: 500;
+                font-weight: 600;
                 line-height: 1.58;
                 font-size: 14px; 
             }
@@ -65,7 +65,7 @@ List Area
             h6{
                 &.heading{
                     color: inherit;
-                    font-weight: 500;
+                    font-weight: 600;
                 }
             }
         }
@@ -143,7 +143,7 @@ List Area
                 .marker{
                     color: $body-color;
                     font-size: 16px;
-                    font-weight: 500;
+                    font-weight: 600;
                     letter-spacing: 0em;
                     line-height: 1.38;
                     font-family: $heading-font;
@@ -151,7 +151,7 @@ List Area
                 h6{
                     &.heading{
                         font-size: 16px;
-                        font-weight: 500;
+                        font-weight: 600;
                         letter-spacing: 0em;
                         line-height: 1.38;
                         color: $body-color;

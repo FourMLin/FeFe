@@ -25,7 +25,7 @@
             padding: 0;
             border: 0;
             background-color: transparent;
-            font-weight: 500;
+            font-weight: 600;
             font-size: 24px;
             color: #222;
             font-family: $body-font;
@@ -263,11 +263,11 @@
         }
         .info {
             h6 {
-                font-size: 18px;
+                font-size: 20px;
                 line-height: 1.388;
                 margin-bottom: 4px;
                 color: #222222;
-                font-weight: 500;
+                font-weight: 600;
                 font-family: $body-font;
             }
             span {
@@ -422,7 +422,7 @@
                     span {
                         color: hsla(0, 0%, 100%, .5);
                         text-align: center;
-                        font-weight: 500;
+                        font-weight: 600;
                         line-height: 1.58;
                         font-size: 14px;
                     }
@@ -521,7 +521,7 @@
                     font-family: $body-font;
                 }
                 span {
-                    font-weight: 500;
+                    font-weight: 600;
                     letter-spacing: 0em;
                     line-height: 1.58;
                     font-size: 14px;

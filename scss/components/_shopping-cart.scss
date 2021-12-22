@@ -72,7 +72,7 @@
                                     line-height: 20px;
                                     a{
                                         font-size: 16px;
-                                        font-weight: 500;
+                                        font-weight: 600;
                                         color: $body-color;
                                         -webkit-transition: all .3s cubic-bezier(.645,.045,.355,1);
                                         transition: all .3s cubic-bezier(.645,.045,.355,1);
@@ -88,7 +88,7 @@
                                     span{
                                         display: inline-block;
                                         font-size: 15px;
-                                        font-weight: 500;
+                                        font-weight: 600;
                                         color: $body-color;
                                     }
                                 }
@@ -124,7 +124,7 @@
                 font-weight: 700;
                 color: $body-color;
                 span{
-                    font-weight: 500;
+                    font-weight: 600;
                     color: $body-color;
                     padding-left: 3px;
                 }
@@ -132,7 +132,7 @@
             a{
                 &.cart-btn{
                     font-size: 14px;
-                    font-weight: 500;
+                    font-weight: 600;
                     color: #ffffff;
                     border-color: #6001D2;
                     background-color: #6001D2;

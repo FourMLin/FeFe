@@ -14,7 +14,7 @@
             display: inline-block;
             padding: 5px 15px;
             &.filter-text{
-                font-weight: 500;
+                font-weight: 600;
                 line-height: 1.58;
                 font-size: 20px;
                 color: $body-color;
@@ -41,7 +41,7 @@
                 transform: translate(-50%,-50%);
                 -webkit-transition: all .3s cubic-bezier(.645,.045,.355,1);
                 transition: all .3s cubic-bezier(.645,.045,.355,1);
-                font-weight: 500;
+                font-weight: 600;
                 font-family: $body-font;
 
                 &::before{
@@ -91,7 +91,7 @@
 .toggle-btn{
     .loadMore{
         font-size: 14px;
-        font-weight: 500;
+        font-weight: 600;
         color: $heading-color;
         border: 0 none;
         -webkit-transition: all .3s cubic-bezier(.645,.045,.355,1);
@@ -128,7 +128,7 @@
             transition: all .3s cubic-bezier(.645,.045,.355,1);
             &.filter-text{
                 letter-spacing: .2px;
-                font-weight: 500;
+                font-weight: 600;
                 color: #333;
                 line-height: 1.58;
                 font-size: 14px;

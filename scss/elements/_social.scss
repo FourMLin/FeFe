@@ -314,7 +314,7 @@
 
                 &[class*=hint--][aria-label]:after {
                     font-family: $body-font;
-                    font-weight: 500;
+                    font-weight: 600;
                     line-height: 1.23;
                     content: attr(aria-label);
                 }
@@ -646,7 +646,7 @@ a {
 
     &[class*=hint--][aria-label]:after {
         font-family: $body-font;
-        font-weight: 500;
+        font-weight: 600;
         line-height: 1.23;
         content: attr(aria-label);
     }
@@ -715,7 +715,6 @@ a {
 
 
     &:hover {
-        color: #0f69ff;
         text-decoration: underline;
 
         &.hint--top {

@@ -678,12 +678,12 @@ h4,
 .h4,
 h5,
 .h5 {
-  font-weight: 500;
+  font-weight: 600;
 }
 
 h6,
 .h6 {
-  font-weight: 500;
+  font-weight: 600;
 }
 
 a:hover,
@@ -11192,7 +11192,7 @@ button.bk-btn {
   color: #fff;
   display: inline-block;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
@@ -11236,7 +11236,7 @@ button.brook-btn {
   border-width: 0;
   -webkit-box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
           box-shadow: 0 10px 20px rgba(0, 0, 0, 0.07);
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   display: inline-block;
@@ -11316,7 +11316,7 @@ button.brook-btn.bk-btn-gray {
   background-color: #ededed;
   color: #222222;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   -webkit-box-shadow: none;
           box-shadow: none;
@@ -11507,7 +11507,7 @@ button.brook-btn:hover {
 }
 
 a.moredetails-btn {
-  font-weight: 500;
+  font-weight: 600;
   font-size: 14px;
   color: #222;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -11562,7 +11562,7 @@ a.moredetails-btn.yellow-color-2:hover {
 }
 
 .view-more-btn.font-600 a {
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .view-more-btn a {
@@ -11844,7 +11844,7 @@ a.moredetails-btn.yellow-color-2:hover {
   background-color: #BC9464;
   display: block;
   font-size: 13px;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 1px;
   text-transform: uppercase;
 }
@@ -11922,8 +11922,8 @@ a.moredetails-btn.yellow-color-2:hover {
 ============================*/
 .section-title h3 {
   color: #6001D2;
-  font-size: 24px;
-  font-weight: 500;
+  font-size: 38px;
+  font-weight: 700;
   letter-spacing: 1px;
   text-transform: uppercase;
   line-height: 1.43;
@@ -11942,7 +11942,7 @@ a.moredetails-btn.yellow-color-2:hover {
 .section-title h2 {
   font-size: 26px;
   line-height: 1.58;
-  font-weight: 500;
+  font-weight: 600;
   margin-bottom: 0;
   word-wrap: break-word;
   max-width: 100%;
@@ -12212,7 +12212,7 @@ a.moredetails-btn.yellow-color-2:hover {
   display: inline-block;
   border: 0;
   background-color: transparent;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 16px;
   color: #111;
   text-transform: uppercase;
@@ -12348,7 +12348,7 @@ Creative Agency Section Title
 }
 
 .section-title--between .section-btn a.button-text {
-  font-weight: 500;
+  font-weight: 600;
   font-size: 14px;
   color: #fff;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
@@ -12494,7 +12494,7 @@ Creative Agency Section Title
   margin-bottom: 18px;
   color: #222222;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .service.service--1 .content p {
@@ -12508,7 +12508,7 @@ Creative Agency Section Title
 .service.service--1 .content a.service-btn {
   border: 0;
   background-color: transparent;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 14px;
   color: #222;
   display: inline-block;
@@ -12575,7 +12575,7 @@ Creative Agency Section Title
 .service.service--2 .content p {
   color: #ffffff;
   max-width: 320px;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.6;
   font-size: 15px;
@@ -12606,7 +12606,7 @@ Creative Agency Section Title
   font-size: 18px;
   margin-bottom: 14px;
   margin-top: 28px;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.23;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
@@ -12943,7 +12943,7 @@ Counterup Area
 
 .brook-counter .content h6 {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.5;
   color: #333333;
 }
@@ -13006,7 +13006,7 @@ Counterup Area
 .brook-counter.onepage-counter .content span {
   margin-bottom: 21px;
   font-size: 80px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: .9;
 }
 
@@ -13018,7 +13018,7 @@ Counterup Area
 
 .brook-counter.onepage-counter .content h6 {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.5;
   color: #333333;
 }
@@ -13114,12 +13114,12 @@ Counterup Area
 }
 
 .number-wrap .content h6 {
-  font-size: 18px;
+  font-size: 24px;
   line-height: 1.39;
   margin-bottom: 0;
   color: #222222;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .number-wrap .content p {
@@ -13186,7 +13186,7 @@ Counterup Area
 
 .counter-style--2 .content h6 {
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 600;
   font-style: italic;
   line-height: 1.6;
   color: #fff;
@@ -13216,7 +13216,7 @@ Counterup Area
   padding: 0;
   border: 0;
   background-color: transparent;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 24px;
   color: #222;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
@@ -13425,11 +13425,11 @@ Counterup Area
 }
 
 .team.team_style--1 .info h6 {
-  font-size: 18px;
+  font-size: 20px;
   line-height: 1.388;
   margin-bottom: 4px;
   color: #222222;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
@@ -13577,7 +13577,7 @@ Counterup Area
 .team.team__style--2 .thumb .team-info .info span {
   color: rgba(255, 255, 255, 0.5);
   text-align: center;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.58;
   font-size: 14px;
 }
@@ -13672,7 +13672,7 @@ Counterup Area
 }
 
 .team.team__style--3 .team-info .info span {
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.58;
   font-size: 14px;
@@ -14202,7 +14202,7 @@ Blog Default Style
   font-size: 20px;
   line-height: 1.56;
   margin-bottom: 0;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   margin: 0 0 18px;
 }
@@ -14386,7 +14386,7 @@ Blog Default Style
   font-size: 24px;
   line-height: 1.375;
   margin-bottom: 0;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   margin: 0 0 18px;
 }
@@ -14399,7 +14399,7 @@ Blog Default Style
   font-size: 18px;
   line-height: 1.12;
   margin-bottom: 0;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
@@ -14539,7 +14539,7 @@ Blog Default Style
 
 .single-contact-address .title {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .single-contact-address .address p {
@@ -14697,7 +14697,7 @@ Contact Form Style 01
   border-width: 1px;
   border-style: solid;
   border-radius: 6px;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 14px;
   letter-spacing: 0;
   cursor: pointer;
@@ -14740,7 +14740,7 @@ Contact Form Style 01
   border-color: #6001D2;
   background-color: #6001D2;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   border-radius: 6px;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -14910,7 +14910,7 @@ Contact Form Style 01
 .contact-form.contact-form--4.heading-hover .input-box button {
   width: auto;
   padding: 0 25px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .contact-form.contact-form--4.heading-hover .input-box button:hover {
@@ -15102,7 +15102,7 @@ Contact Form Style 01
 
 .about--creative .content a.about-btn {
   background-color: transparent;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 14px;
   color: #fff;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
@@ -15293,7 +15293,7 @@ Contact Form Style 01
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 14px;
 }
 
@@ -16208,7 +16208,7 @@ Contact Form Style 01
 
 .social-icon.tooltip-layout li a[class*=hint--][aria-label]:after {
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.23;
   content: attr(aria-label);
 }
@@ -16482,7 +16482,7 @@ a[class*=hint--]:before {
 
 a[class*=hint--][aria-label]:after {
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.23;
   content: attr(aria-label);
 }
@@ -16541,7 +16541,6 @@ a.hint--bottom.hint--white[aria-label]::before {
 }
 
 a:hover {
-  color: #0f69ff;
   text-decoration: underline;
 }
 
@@ -17351,7 +17350,7 @@ a:hover.hint--bottom::after {
   padding: 5px 0;
   padding-left: 62px;
   background-color: transparent;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 13px;
   display: block;
   color: #fff;
@@ -17399,7 +17398,7 @@ a:hover.hint--bottom::after {
 .hero-content-5 h3 {
   font-size: 73px;
   line-height: 90px;
-  font-weight: 500;
+  font-weight: 600;
   color: #fff;
   margin-bottom: 40px;
 }
@@ -17527,7 +17526,7 @@ a:hover.hint--bottom::after {
 .carousle-slider .content h5 {
   font-size: 18px;
   margin-bottom: 14px;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   line-height: 1.23;
 }
@@ -17535,7 +17534,7 @@ a:hover.hint--bottom::after {
 .carousle-slider .content p {
   line-height: 1.58;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #333333;
   margin: 0;
@@ -17611,12 +17610,12 @@ Countdown Area
   text-align: center;
   margin-bottom: 18px;
   border-radius: 6px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .countdown-style-1 .timer-grid > div span.count-inner p {
   margin: 0;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 14px;
   color: #ffffff;
 }
@@ -17691,7 +17690,7 @@ Countdown Area
   text-align: center;
   font-size: 30px !important;
   margin-top: 14px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .time_circles .textDiv_Days,
@@ -17747,7 +17746,7 @@ Progress Charts
 
 .progress-charts h6.heading span.percent-label {
   color: #222;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .progress-charts .progress {
@@ -17782,7 +17781,7 @@ Progress Charts
   right: -7px;
   top: -35px;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .radial-progress,
@@ -17811,7 +17810,7 @@ Progress Charts
 .radial-progress--2 .circle-text span.count {
   font-size: 18px;
   line-height: 1;
-  font-weight: 500;
+  font-weight: 600;
   color: #222222;
   position: relative;
 }
@@ -18138,7 +18137,7 @@ Progress Charts
   width: 40px;
   line-height: 40px;
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   color: #fff;
   background: inherit;
   border-radius: 50%;
@@ -18389,7 +18388,7 @@ Pricing PLans
   font-size: 24px;
   color: #222222;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.23;
   margin: 0;
@@ -18399,7 +18398,7 @@ Pricing PLans
   font-size: 14px;
   color: #222222;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.23;
   margin: 0;
@@ -18428,7 +18427,7 @@ Pricing PLans
   color: #fff;
   font-size: 10px;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.23;
 }
@@ -18678,7 +18677,7 @@ Pricing PLans
   z-index: 1;
   line-height: 1.58;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .maintenance-social-networks .inner a span::before {
@@ -18800,7 +18799,7 @@ Contagion Area
 .single-contagion .contagion-content h3 {
   font-size: 24px;
   line-height: 28px;
-  font-weight: 500;
+  font-weight: 600;
   color: #6001D2;
 }
 
@@ -18960,7 +18959,7 @@ Contagion Area
 .single-sympotom .sympotom-content h3 {
   font-size: 24px;
   line-height: 28px;
-  font-weight: 500;
+  font-weight: 600;
   color: #6001D2;
 }
 
@@ -19161,7 +19160,7 @@ Contagion Area
 .single-prevination .prevination-content h3 {
   font-size: 24px;
   line-height: 28px;
-  font-weight: 500;
+  font-weight: 600;
   color: #6001D2;
 }
 
@@ -19213,7 +19212,7 @@ Contagion Area
 
 .single-hand-wash .hand-wash-content h5 {
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 28px;
   color: #fff;
 }
@@ -19367,17 +19366,17 @@ Testimonial Area
 }
 
 .testimonial_style--1 .content .testimonial-info .clint-info h6 {
-  font-size: 18px;
+  font-size: 16px;
   line-height: 1.388;
   margin-bottom: 6px;
   color: #222222;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .testimonial_style--1 .content .testimonial-info .clint-info span {
   color: #333333;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.58;
   font-size: 14px;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
@@ -19625,7 +19624,7 @@ Testimonial Area
 }
 
 .testimonial_style--2 .content .testimonial-info .clint-info span {
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.58;
   font-size: 14px;
@@ -19765,7 +19764,7 @@ Testimonial Area
 .testimonial-nav-content .testimonial-nav .content .testimonial-info .clint-info span {
   font-size: 15px;
   font-style: italic;
-  font-weight: 500;
+  font-weight: 600;
   display: inline-block;
   color: #fff;
 }
@@ -19871,7 +19870,7 @@ Testimonial Area
 }
 
 .testimonanial-style--3 .testimonial-info .clint-info span {
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.58;
   font-size: 14px;
@@ -19934,13 +19933,13 @@ Testimonial Area
   line-height: 1.388;
   margin-bottom: 6px;
   color: #fff;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .testimonial_style--4 .content .testimonial-info .clint-info span {
   color: rgba(255, 255, 255, 0.6);
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.58;
   font-size: 14px;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
@@ -19981,13 +19980,13 @@ Testimonial Area
   line-height: 1.388;
   margin-bottom: 6px;
   color: #fff;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Poppins", sans-serif;
 }
 
 .testimonial_style--5 .content .testimonial-info .clint-info span {
   color: rgba(255, 255, 255, 0.6);
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.58;
   font-size: 18px;
   font-family: "Poppins", sans-serif;
@@ -20268,7 +20267,7 @@ Tabs Area
   color: #fff;
   margin-left: 10px;
   margin-bottom: 15px;
-  font-weight: 500;
+  font-weight: 600;
   display: inline-block;
   -webkit-transition: all 0.3s ease-in-out;
   transition: all 0.3s ease-in-out;
@@ -20625,7 +20624,7 @@ audio {
   border: 0 none;
   padding: 0;
   display: block;
-  font-weight: 500;
+  font-weight: 600;
   -webkit-transition: all 1s cubic-bezier(0, 0, 0.2, 1);
   transition: all 1s cubic-bezier(0, 0, 0.2, 1);
 }
@@ -20745,7 +20744,7 @@ audio {
 Breadcaump Area 
 =============================*/
 .breadcaump-area.breadcaump-title-bar .breadcaump-inner .heading {
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.41;
   font-size: 70px;
   padding-bottom: 130px;
@@ -20753,7 +20752,7 @@ Breadcaump Area
 }
 
 .breadcaump-area.breadcaump-title-bar .breadcaump-inner .heading.heading-h1 {
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.41;
   font-size: 56px;
 }
@@ -20789,7 +20788,7 @@ Breadcaump Area
 }
 
 .breadcaump-area.breadcaump-title-bar .breadcaump-inner .breadcrumb-insite ul.core-breadcaump li a {
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.58;
   position: relative;
   overflow: hidden;
@@ -21207,7 +21206,7 @@ Breadcaump Area
 
 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner h4 a {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   color: #333333;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -21226,7 +21225,7 @@ Breadcaump Area
 .mini-cart .shopping-cart .shop-inner ul.product-list li .content .inner .quatity span {
   display: inline-block;
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 600;
   color: #333333;
 }
 
@@ -21261,14 +21260,14 @@ Breadcaump Area
 }
 
 .mini-cart .shopping-cart .footer .total span {
-  font-weight: 500;
+  font-weight: 600;
   color: #333333;
   padding-left: 3px;
 }
 
 .mini-cart .shopping-cart .footer a.cart-btn {
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   color: #ffffff;
   border-color: #6001D2;
   background-color: #6001D2;
@@ -21356,7 +21355,7 @@ Start Dropdown Menu
   padding: 2px 0;
   overflow: hidden;
   z-index: 1;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.58;
   color: #ffffff;
   font-size: 14px;
@@ -21472,7 +21471,7 @@ Start Dropdown Menu
   margin: 0 30px 18px 0;
   padding-bottom: 12px;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 14px;
   border: 0 solid transparent;
   border-bottom: 1px solid #444;
@@ -21485,7 +21484,7 @@ Start Dropdown Menu
   padding: 2px 0;
   overflow: hidden;
   z-index: 1;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.58;
   color: #fff;
   font-size: 14px;
@@ -21642,7 +21641,7 @@ Typography Area
 .heading {
   color: #222222;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.23;
   margin: 0;
@@ -21681,7 +21680,7 @@ Typography Area
 }
 
 .heading.font-medium {
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .heading.font-400 {
@@ -21827,7 +21826,7 @@ h1.heading-h1 {
 h1.heading-h1.large-font-1 {
   font-size: 79px;
   line-height: 159px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 @media only screen and (min-width: 1200px) and (max-width: 1599px) {
@@ -21949,7 +21948,7 @@ h1.heading-h1.font-60 {
 h1.heading-h1.large-font-2 {
   line-height: 1.4;
   font-size: 100px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -22254,7 +22253,7 @@ p.bk_pra.line-height-2-22 {
 }
 
 .dropcaps p {
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.58;
   font-size: 14px;
@@ -22264,7 +22263,7 @@ p.bk_pra.line-height-2-22 {
 
 .dropcaps p span {
   float: left;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 48px;
   line-height: 33px;
   padding-right: 10px;
@@ -22320,7 +22319,7 @@ p.bk_pra.line-height-2-22 {
   margin: 37px 0 44px !important;
   padding: 0 0 0 53px;
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.625;
 }
 
@@ -22339,7 +22338,7 @@ p.bk_pra.line-height-2-22 {
 
 .brook-quote .quote-text {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.625;
   color: #222222;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
@@ -22374,7 +22373,7 @@ List Area
 .bk-list .list-header p.bk_pra {
   margin-top: 13px;
   margin-bottom: 0;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.58;
   font-size: 14px;
 }
@@ -22407,7 +22406,7 @@ List Area
 
 .bk-list--2 .list-header .title-wrap h6.heading {
   color: inherit;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .bk-list--2 .list-header.with-ckeck {
@@ -22478,7 +22477,7 @@ List Area
 .bk-list--2 .list-header.with-number--body .marker {
   color: #333333;
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.38;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
@@ -22486,7 +22485,7 @@ List Area
 
 .bk-list--2 .list-header.with-number--body h6.heading {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.38;
   color: #333333;
@@ -22531,7 +22530,7 @@ Pricing Box
   text-transform: uppercase;
   font-size: 10px;
   line-height: 1.4;
-  font-weight: 500;
+  font-weight: 600;
   color: #fff;
 }
 
@@ -22563,7 +22562,7 @@ Pricing Box
   font-size: 48px;
   line-height: .9;
   margin: 0 4px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .procing-box .content h5.heading {
@@ -22617,7 +22616,7 @@ Pricing Box
 
 .price-style-3 .procing-box .header .price-area .header-title .title {
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.34;
   margin-bottom: 15px;
   -webkit-box-ordinal-group: 2;
@@ -22629,7 +22628,7 @@ Pricing Box
   font-size: 40px;
   line-height: 1.275;
   margin: 0;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .price-style-3 .procing-box .header .price-area .period {
@@ -22779,7 +22778,7 @@ Pricing Box
 
 .icon-box .inner .content a.icon-btn span {
   padding: 5px 0;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 14px;
 }
 
@@ -22851,7 +22850,7 @@ Pricing Box
 
 .icon-box.icon-box-style-2 .content h5 {
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.3;
   margin-bottom: 15px;
 }
@@ -22945,7 +22944,7 @@ Pricing Box
 
 .vibrate-style .content h5 {
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .vibrate-style .content p {
@@ -23019,7 +23018,7 @@ Pricing Box
 .single-svg-icon-box .content h5 {
   font-size: 20px;
   margin-bottom: 18px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .single-svg-icon-box:hover {
@@ -23100,7 +23099,7 @@ Pricing Box
   width: 100%;
   color: #fff;
   font-size: 13px;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 1px;
   margin: 0;
   padding-right: 0;
@@ -23112,7 +23111,7 @@ Pricing Box
 .single-svg-icon-box.business-icon-box .br-icon-box-btn a {
   color: #fff;
   font-size: 13px;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 1px;
   text-transform: uppercase;
   padding: 5px 0;
@@ -23267,7 +23266,7 @@ Dividers Area
 }
 
 .message-box .content {
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.58;
   font-size: 14px;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
@@ -23339,7 +23338,7 @@ Dividers Area
   font-size: 18px;
   line-height: 1.2;
   padding: 0;
-  font-weight: 500;
+  font-weight: 600;
   border: 0 none;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   -webkit-appearance: none;
@@ -23375,7 +23374,7 @@ Dividers Area
 
 .bk-accordion .card-body {
   padding: 27px 25px 39px;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.58;
   font-size: 14px;
@@ -23406,7 +23405,7 @@ Dividers Area
 .bk-accordion-style--2 .card-header h5 a.acc-btn {
   color: #111;
   padding: 0;
-  font-weight: 500;
+  font-weight: 600;
   border: 0 none;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   -webkit-appearance: none;
@@ -23447,7 +23446,7 @@ Dividers Area
 
 .bk-accordion-style--2 .card-body {
   padding: 5px 0 21px 26px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.58;
   font-size: 14px;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
@@ -23484,7 +23483,7 @@ Dividers Area
 .bk-accordion-style--2.border-style .card-header h5 a.acc-btn {
   font-size: 24px;
   line-height: 1.2;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   padding: 14px 0 14px 26px;
 }
@@ -23572,7 +23571,7 @@ Dividers Area
 .faq-content h2 {
   font-size: 50px;
   line-height: 65px;
-  font-weight: 500;
+  font-weight: 600;
   color: #6001D2;
   margin-bottom: 30px;
 }
@@ -24362,7 +24361,7 @@ body.loaded .page-loading {
   line-height: 1.4;
   color: #fff;
   margin: 0;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
@@ -24388,7 +24387,7 @@ body.loaded .page-loading {
 }
 
 .portfolio.portfolio_style--1 .port-overlay-info .hover-action .category {
-  font-weight: 500;
+  font-weight: 600;
   font-size: 14px;
   opacity: 0;
   -webkit-transition: .3s ease-out 0s;
@@ -25112,7 +25111,7 @@ body.loaded .page-loading {
 
 .porfolio-swip-horizontal .fraction span {
   font-family: Montserrat, Helvetica, Arial, sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   color: #535353;
   font-size: 14px;
 }
@@ -25145,7 +25144,7 @@ body.loaded .page-loading {
 
 .porfolio-swip-horizontal.black-number .fraction span {
   font-family: Montserrat, Helvetica, Arial, sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   color: #000;
   font-size: 14px;
 }
@@ -25278,7 +25277,7 @@ body.loaded .page-loading {
 .portfolio.with-caption .thumb .port-plus-view::before {
   content: "\f067";
   font-family: Font Awesome\ 5 Free;
-  font-weight: 500;
+  font-weight: 600;
   position: absolute;
   left: 50%;
   -webkit-transform: translateX(-50%);
@@ -25403,7 +25402,7 @@ body.loaded .page-loading {
   -webkit-box-flex: 1;
   -ms-flex-positive: 1;
   flex-grow: 1;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
@@ -25415,7 +25414,7 @@ body.loaded .page-loading {
   -ms-flex-negative: 0;
   flex-shrink: 0;
   margin-left: 10px;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 14px;
   color: #333333;
 }
@@ -25441,7 +25440,7 @@ body.loaded .page-loading {
 }
 
 .messonry-button button span.filter-text {
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.58;
   font-size: 20px;
   color: #333333;
@@ -25468,7 +25467,7 @@ body.loaded .page-loading {
   transform: translate(-50%, -50%);
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
@@ -25505,7 +25504,7 @@ body.loaded .page-loading {
 
 .toggle-btn .loadMore {
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   color: #222222;
   border: 0 none;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -25544,7 +25543,7 @@ body.loaded .page-loading {
 
 .messonry-button--2 button span.filter-text {
   letter-spacing: .2px;
-  font-weight: 500;
+  font-weight: 600;
   color: #333;
   line-height: 1.58;
   font-size: 14px;
@@ -25741,7 +25740,7 @@ Has Center
 
 .has-center-content .has-centerinner .content .read-more-btn a {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   -webkit-transition: 0.4s ease-in-out;
   transition: 0.4s ease-in-out;
   color: #fff;
@@ -25918,7 +25917,7 @@ Has Center
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   font-family: Montserrat, Helvetica, Arial, sans-serif;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -26138,7 +26137,7 @@ Has Center
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   font-family: Poppins, Helvetica, Arial, sans-serif;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 @media only screen and (min-width: 992px) and (max-width: 1199px) {
@@ -26534,14 +26533,14 @@ Portfolio Details
 .portfolio-details-list .details-list label {
   color: #222222;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 14px;
   margin-bottom: 12px;
 }
 
 .portfolio-details-list .details-list span {
   color: #999;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.58;
   font-size: 14px;
@@ -26738,7 +26737,7 @@ Portfolio Nav Page
 
 .blog-grid .post-content .post-inner .post-categories a {
   font-size: 12px;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 1.38px;
   text-transform: uppercase;
   margin-bottom: 9px;
@@ -26783,7 +26782,7 @@ Portfolio Nav Page
 
 .blog-grid .post-content .post-inner h3.heading {
   font-size: 22px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.46;
   margin-bottom: 37px;
 }
@@ -26835,7 +26834,7 @@ Portfolio Nav Page
 .blog-grid .post-content .post-inner .post-meta .post-date {
   line-height: 1.58;
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 600;
   color: #333333;
 }
 
@@ -26844,7 +26843,7 @@ Portfolio Nav Page
   margin-left: 7px;
   line-height: 1.58;
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .blog-grid .post-content .post-inner .post-meta .post-category::before {
@@ -26887,7 +26886,7 @@ Portfolio Nav Page
 
 .blog-grid.blog-business-two .post-content .post-inner h3.heading {
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.56;
   margin: 9px 0 20px;
 }
@@ -27198,7 +27197,7 @@ Portfolio Nav Page
   padding: 0;
   margin: -5px;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   list-style: none;
 }
 
@@ -27438,7 +27437,7 @@ Portfolio Nav Page
 }
 
 .post-meta .post-date {
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.58;
   font-size: 15px;
@@ -27448,7 +27447,7 @@ Portfolio Nav Page
 .post-meta .post-category {
   padding-left: 15px;
   margin-left: 7px;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 1.58;
   font-size: 15px;
@@ -27537,7 +27536,7 @@ Portfolio Nav Page
   margin-bottom: 21px;
   font-size: 24px;
   line-height: 1.392;
-  font-weight: 500;
+  font-weight: 600;
   color: inherit;
 }
 
@@ -27758,7 +27757,7 @@ Portfolio Nav Page
 
 .brook-pagination-wrapper .load-more-button a {
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   color: #191970;
 }
 
@@ -27774,7 +27773,7 @@ Blog Details
   color: #999999;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.58;
   font-size: 14px;
   position: relative;
@@ -27836,7 +27835,7 @@ Blog Details
   background: #fff;
   font-size: 24px;
   line-height: 1.375;
-  font-weight: 500;
+  font-weight: 600;
   color: #222;
   word-wrap: break-word;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -27853,7 +27852,7 @@ Blog Details
 .post-nav-lisnt .nav-item a .link-text {
   position: relative;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   color: #999;
   margin-bottom: 28px;
 }
@@ -27950,7 +27949,7 @@ Start Comment Area
 
 .commnent-list-wrap .comment .content .comment-footer span {
   font-size: 12px;
-  font-weight: 500;
+  font-weight: 600;
   display: inline-block;
 }
 
@@ -28013,7 +28012,7 @@ Blog Main Quote
   color: #999999;
   line-height: 1.58;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .blog-post-return-button a i {
@@ -28088,7 +28087,7 @@ Blog Main Quote
   padding-bottom: 11px;
   border-bottom: 1px solid #eee;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.23;
   color: #222222;
 }
@@ -28167,7 +28166,7 @@ Blog Main Quote
   color: #333333;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.58;
   font-size: 14px;
 }
@@ -28218,7 +28217,7 @@ Blog Main Quote
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   display: block;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   padding: 10px;
   color: #333333;
 }
@@ -28288,7 +28287,7 @@ Shop Sidebar
   padding-bottom: 11px;
   border-bottom: 1px solid #eee;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.23;
   color: #222222;
 }
@@ -28412,7 +28411,7 @@ Shop Sidebar
 }
 
 .shop-sidebar.related-product-inner .related-product li .product-item .info .price span {
-  font-weight: 500;
+  font-weight: 600;
   font-size: 15px;
   display: inline-block;
   color: #333;
@@ -28458,7 +28457,7 @@ Shop Sidebar
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   display: block;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   padding: 10px;
   color: #333333;
 }
@@ -28581,7 +28580,7 @@ Shop Sidebar
       -ms-flex-positive: 1;
           flex-grow: 1;
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .price__output--wrap .price--filter {
@@ -28701,7 +28700,7 @@ Shop Sidebar
   border-radius: 10px 10px 10px 0;
   color: #fff;
   text-align: center;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 13px;
   line-height: 1.44;
   text-transform: uppercase;
@@ -28717,7 +28716,7 @@ Shop Sidebar
 
 .single-product-details-side .price p {
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .single-product-details-side .description {
@@ -28773,7 +28772,7 @@ Shop Sidebar
 .single-product-details-side .product-action a.addtocart {
   padding: 0 30px 0;
   height: 53px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 52px;
   font-size: 16px;
 }
@@ -28825,7 +28824,7 @@ Shop Sidebar
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .single-product-details-side .product-meta .meta-item + .meta-item {
@@ -28852,7 +28851,7 @@ Shop Sidebar
   display: inline-block;
   font-size: 24px;
   margin-right: 3px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .single_product_inner .rating {
@@ -29045,7 +29044,7 @@ Shop Sidebar
   border-bottom: 2px solid transparent;
   padding: 13px 0;
   font-size: 20px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.5;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
   transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -29097,7 +29096,7 @@ Shop Sidebar
 
 .product_review .single_review_content .classs__review__inner h4 {
   color: #000;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .product_review .single_review_content .classs__review__inner p {
@@ -29144,7 +29143,7 @@ Shop Sidebar
   background-color: #252525;
   color: #ffffff;
   display: inline-block;
-  font-weight: 500;
+  font-weight: 600;
   height: 45px;
   line-height: 45px;
   margin-top: 30px;
@@ -29277,7 +29276,7 @@ Shop Sidebar
   border: none;
   font-size: 16px;
   text-transform: uppercase;
-  font-weight: 500;
+  font-weight: 600;
   color: #222222;
   padding: 12px 20px;
 }
@@ -29330,14 +29329,14 @@ Shop Sidebar
 
 .cart-table td.pro-title a {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   color: #222222;
 }
 
 .cart-table td.pro-price span {
   display: block;
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 600;
   color: #333333;
 }
 
@@ -29383,7 +29382,7 @@ Shop Sidebar
 .cart-table td.pro-subtotal span {
   display: block;
   font-size: 15px;
-  font-weight: 500;
+  font-weight: 600;
   color: #6001D2;
 }
 
@@ -29402,7 +29401,7 @@ Shop Sidebar
 
 .cart-table td.pro-remove a {
   display: block;
-  font-weight: 500;
+  font-weight: 600;
   color: #222222;
 }
 
@@ -29549,7 +29548,7 @@ Shop Sidebar
 
 .cart-summary .cart-summary-wrap p {
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 23px;
   color: #222222;
 }
@@ -29669,7 +29668,7 @@ Shop Sidebar
   display: block;
   font-size: 14px;
   margin-bottom: 12px;
-  font-weight: 500;
+  font-weight: 600;
   text-transform: capitalize;
   color: #222222;
 }
@@ -29838,7 +29837,7 @@ Shop Sidebar
   color: #333333;
   font-size: 14px;
   line-height: 23px;
-  font-weight: 500;
+  font-weight: 600;
   display: block;
   margin-bottom: 16px;
 }
@@ -29851,7 +29850,7 @@ Shop Sidebar
 .checkout-cart-total p {
   font-size: 14px;
   line-height: 30px;
-  font-weight: 500;
+  font-weight: 600;
   color: #505050;
   padding: 10px 0;
   border-bottom: 1px solid #999999;
@@ -30032,7 +30031,7 @@ Shop Sidebar
 .compare-table .table tbody tr td.first-column {
   min-width: 180px;
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600;
   color: #222222;
   margin: 0;
   line-height: 1;
@@ -30071,7 +30070,7 @@ Shop Sidebar
   float: left;
   clear: both;
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   color: #222222;
   line-height: 20px;
   margin-bottom: 10px;
@@ -30085,19 +30084,19 @@ Shop Sidebar
 
 .compare-table .table tbody tr td.pro-price {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   color: #333333;
 }
 
 .compare-table .table tbody tr td.pro-color {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   color: #333333;
 }
 
 .compare-table .table tbody tr td.pro-stock {
   font-size: 16px;
-  font-weight: 500;
+  font-weight: 600;
   color: #333333;
 }
 
@@ -30175,7 +30174,7 @@ Shop Sidebar
   border: 1px solid #e7e7e7;
   color: #434343;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   margin: 0 0 30px;
   position: relative;
   text-transform: uppercase;
@@ -30316,7 +30315,7 @@ Shop Sidebar
   border-radius: 3px;
   color: #fff;
   cursor: pointer;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1;
   padding: 13px 23px;
   text-transform: uppercase;
@@ -30991,7 +30990,7 @@ Main Components
   position: relative;
   overflow: hidden;
   z-index: 1;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.18;
   font-size: 18px;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
@@ -31405,7 +31404,7 @@ header.br_header.header-default.vertical-slide-portfolio {
   height: 15px;
   border-radius: 100%;
   content: attr(data-count);
-  font-weight: 500;
+  font-weight: 600;
   font-size: 10px;
   line-height: 15px;
   background-color: rgba(0, 0, 0, 0);
@@ -31417,7 +31416,7 @@ header.br_header.header-default.vertical-slide-portfolio {
 }
 
 .header-default.light-logo--version .mainmenu-wrapper .page_nav ul.mainmenu li a {
-  color: #6001D2;
+  color: #222222;
 }
 
 .header-default.light-logo--version .mainmenu-wrapper .page_nav ul.mainmenu li a::after {
@@ -32251,7 +32250,7 @@ header.br_header.header-default.header-fixed {
   line-height: 1.4;
   margin-bottom: 21px;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   margin: 0 0 18px;
 }
 
@@ -32872,7 +32871,7 @@ Header Font Family
 }
 
 .fullscreen-slider-activation .slide-portfolio-single .content h5 {
-  font-weight: 500;
+  font-weight: 600;
   margin-bottom: 30px;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
@@ -33879,7 +33878,7 @@ Vertical Slider Area
   font-size: 48px;
   line-height: 1.4;
   margin-bottom: 57px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .single-vertical-slide .slide-inner .info h2.heading a {
@@ -33946,7 +33945,7 @@ Indie Musician Area
   color: #fff;
   border-color: rgba(255, 255, 255, 0.4);
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   position: relative;
   display: inline-block;
   -webkit-transition: all 0.3s cubic-bezier(0.645, 0.045, 0.355, 1);
@@ -34355,7 +34354,7 @@ Shop Slide Area
 }
 
 .product-tab li a {
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.58;
   font-size: 14px;
   position: relative;
@@ -34443,7 +34442,7 @@ Shop Slide Area
   border-radius: 10px 10px 10px 0;
   color: #fff;
   text-align: center;
-  font-weight: 500;
+  font-weight: 600;
   font-size: 13px;
   line-height: 1.44;
   text-transform: uppercase;
@@ -34486,7 +34485,7 @@ Shop Slide Area
 
 .product .product-info .price {
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .product .product-info .price span {
@@ -34527,7 +34526,7 @@ Shop Slide Area
 
 .product-tab-two li a {
   font-size: 12px;
-  font-weight: 500;
+  font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 1.38px;
   width: 100%;
@@ -34560,7 +34559,7 @@ Shop Slide Area
 
 .product-style-two .product-info h5 {
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600;
   margin-bottom: 9px;
 }
 
@@ -34675,7 +34674,7 @@ Shop Slide Area
 
 .product .product-thumbnail .product-action .action-list.tooltip-layout li a[class*=hint--][aria-label]:after {
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.23;
   content: attr(aria-label);
 }
@@ -34791,7 +34790,7 @@ Shop Slide Area
   position: relative;
   z-index: 1;
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600;
   margin-bottom: 0;
 }
 
@@ -35298,7 +35297,7 @@ Prresentation Area
 /* Footer Widget */
 .footer-widget h2.widgettitle {
   font-size: 18px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.2;
   color: #fff;
   border-bottom-color: rgba(0, 0, 0, 0);
@@ -35323,7 +35322,7 @@ Prresentation Area
   display: inline-block;
   padding: 3px 0;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 2;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
@@ -35344,7 +35343,7 @@ Prresentation Area
   word-wrap: break-word;
   max-width: 100%;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 2;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #ffffff;
@@ -35394,20 +35393,20 @@ Prresentation Area
 .footer-widget.text-var--2 .footer-menu ul.ft-menu-list li a {
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   letter-spacing: 0em;
   line-height: 2;
 }
 
 .footer-widget.text-var--2 .footer-address p {
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
 .footer-widget.text-var--2 .footer-address p a {
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
 }
 
@@ -35517,7 +35516,7 @@ Prresentation Area
 .copyright .copyright-right p {
   margin: 0;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 2;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #ffffff;
@@ -35539,7 +35538,7 @@ Prresentation Area
 .copyright.copyright--2 .copyright-left p {
   margin: 0;
   font-size: 14px;
-  font-weight: 500;
+  font-weight: 600;
   line-height: 1.86;
   font-family: "Helvetica", "Arial", "LiHei Pro", "黑體-繁", "微軟正黑體", sans-serif;
   color: #999;

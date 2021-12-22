@@ -22,7 +22,7 @@
                     border: none;
                     font-size: 16px;
                     text-transform: uppercase;
-                    font-weight: 500;
+                    font-weight: 600;
                     color: $heading-color;
                     padding: 12px 20px;
                 }
@@ -77,7 +77,7 @@
     & td.pro-title {
         & a {
             font-size: 16px;
-            font-weight: 500;
+            font-weight: 600;
             color: #222222;
         }
     }
@@ -85,7 +85,7 @@
         & span {
             display: block;
             font-size: 15px;
-            font-weight: 500;
+            font-weight: 600;
             color: $body-color;
         }
     }
@@ -129,7 +129,7 @@
         & span {
             display: block;
             font-size: 15px;
-            font-weight: 500;
+            font-weight: 600;
             color: $theme-color;
         }
     }
@@ -150,7 +150,7 @@
     & td.pro-remove {
         & a {
             display: block;
-            font-weight: 500;
+            font-weight: 600;
             color: $heading-color;
             & i {
                 font-size: 24px;
@@ -281,7 +281,7 @@
         }
         & p {
             font-size: 14px;
-            font-weight: 500;
+            font-weight: 600;
             line-height: 23px;
             color: $heading-color;
             & span {
