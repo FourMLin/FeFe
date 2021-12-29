@@ -11214,6 +11214,18 @@ button.bk-btn.black-btn:hover {
   color: #fff;
 }
 
+a.bk-btn.yellow-btn,
+button.bk-btn.yellow-btn {
+  background-color: #ffcd29;
+  color: #222;
+}
+
+a.bk-btn.yellow-btn:hover,
+button.bk-btn.yellow-btn:hover {
+  background-color: #222;
+  color: #fff;
+}
+
 a.bk-btn:hover,
 button.bk-btn:hover {
   -webkit-transform: translateY(-3px);
@@ -11934,7 +11946,7 @@ a.moredetails-btn.yellow-color-2:hover {
 
 @media only screen and (max-width: 767px) {
   .section-title h3 {
-    font-size: 18px;
+    font-size: 24px;
     margin-bottom: 16px;
   }
 }
@@ -16538,10 +16550,6 @@ a.hint--bottom::before {
 
 a.hint--bottom.hint--white[aria-label]::before {
   border-bottom-color: #ffffff;
-}
-
-a:hover {
-  text-decoration: underline;
 }
 
 a:hover.hint--top[class*=hint--]:after, a:hover.hint--top[class*=hint--]:before {

@@ -584,14 +584,14 @@ var musics = new Vue({
                 link: 'https://www.youtube.com/watch?v=v077zIuITWo'
             },
             {
-                title: '鳳飛飛1968~1988珍藏版',
+                title: '鳳飛飛1968~1988珍藏版(上卷)',
                 date: '1988年2月',
                 category: 'music-5',
                 images: 'img/music/05藍與白唱片/廿年珍藏版-上卷.jpg',
                 link: 'https://www.youtube.com/watch?v=hvLmpVwy-OE'
             },
             {
-                title: '鳳飛飛1968~1988珍藏版',
+                title: '鳳飛飛1968~1988珍藏版(下卷)',
                 date: '1988年2月',
                 category: 'music-5',
                 images: 'img/music/05藍與白唱片/廿年珍藏版-下卷.jpg',

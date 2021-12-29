@@ -249,6 +249,12 @@
   margin-right: 10px;
 }
 
+@media screen and (max-width: 767px) {
+  .head-img {
+    max-width: 24px;
+  }
+}
+
 .head-img img {
   width: 100%;
 }
@@ -320,5 +326,32 @@
 
 .post-thumbnail {
   width: 100px;
+}
+
+.copyright-alert {
+  background-color: #031a4E;
+  color: #fff;
+  padding: 24px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 100000;
+  text-align: center;
+}
+
+.copyright-alert p {
+  margin: auto 0;
+}
+
+.copyright-alert .bk-btn {
+  padding: 0 28px;
+  height: 40px;
+  line-height: 43px;
+  margin-left: 16px;
+}
+
+.copyright-alert .bk-btn:hover {
+  -webkit-transform: none;
+          transform: none;
 }
 /*# sourceMappingURL=custom.css.map */

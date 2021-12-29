@@ -246,6 +246,10 @@ $purple:#6001D2;
     max-width: 48px;
     margin-right: 10px;
 
+    @media screen and (max-width: 767px) {
+        max-width: 24px;
+    }
+
     img {
         width: 100%;
     }
@@ -296,26 +300,53 @@ $purple:#6001D2;
 
 }
 
-.tp-bullets{
+.tp-bullets {
 
-    @media screen and (max-width: 767px){
+    @media screen and (max-width: 767px) {
         transform: matrix(1, 0, 0, 1, -65, -72) !important;
     }
-    
+
 }
 
-.bg_image--58{
+.bg_image--58 {
     background-image: url(../img/coming-soon-web.jpg);
     background-position: top !important;
-    @media screen and (max-width: 767px){
+
+    @media screen and (max-width: 767px) {
         background-image: url(../img/coming-soon-phone1.jpg);
     }
 
-    @media screen and (max-width: 415px){
+    @media screen and (max-width: 415px) {
         background-image: url(../img/coming-soon-phone2.jpg);
     }
 }
 
-.post-thumbnail{
+.post-thumbnail {
     width: 100px;
+}
+
+.copyright-alert {
+    background-color: #031a4E;
+    color: #fff;
+    padding: 24px;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100000;
+    text-align: center;
+
+    p {
+        margin: auto 0;
+    }
+
+    .bk-btn {
+        padding: 0 28px;
+        height: 40px;
+        line-height: 43px;
+        margin-left: 16px;
+
+        &:hover{
+            transform: none;
+        }
+    }
 }

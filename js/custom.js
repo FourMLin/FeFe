@@ -10,6 +10,9 @@ $(function () {
 	})
 });
 
+$('#CRclose').on('click', function(){
+    $('.copyright-alert').hide();
+});
 
 //獎項紀錄
 var awards = new Vue({
@@ -398,7 +401,7 @@ var eventRecord = new Vue({
             title: '心肝寶貝的故事盒',
             date: '2021-11-19',
             category:'大嵙崁文教基金會',
-            link:'https://www.takoham.org.tw/news/4/96'
+            link:'https://www.beclass.com/rid=25465ad6194c73497ae6'
         },
         {
             title: '鳳友徵集令．鳳飛飛故事館',
@@ -416,3 +419,5 @@ var eventRecord = new Vue({
 
     }
 });
+
+
